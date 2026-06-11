@@ -1,0 +1,333 @@
+{
+  "generated_at": "2026-05-13T06:38:09Z",
+  "items": {
+    "E12|咬合桩": {
+      "block_id": "E12|咬合桩",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:27:57.071Z"
+    },
+    "E12|混凝土支撑": {
+      "block_id": "E12|混凝土支撑",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:27:55.487Z"
+    },
+    "E12|灌注桩": {
+      "block_id": "E12|灌注桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:24:21.455Z"
+    },
+    "E12|立柱桩": {
+      "block_id": "E12|立柱桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:24:23.511Z"
+    },
+    "E12|钢围檩": {
+      "block_id": "E12|钢围檩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:24:25.351Z"
+    },
+    "E13|灌注桩": {
+      "block_id": "E13|灌注桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:25:01.023Z"
+    },
+    "E1|咬合桩": {
+      "block_id": "E1|咬合桩",
+      "actual_start_date": "2026-05-27",
+      "actual_finish_date": "2026-05-27",
+      "actual_percent": 0.0,
+      "remark": "",
+      "updated_at": "2026-04-27T14:46:12.038Z"
+    },
+    "E1|管桩": {
+      "block_id": "E1|管桩",
+      "actual_start_date": "2026-05-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-04-27T14:56:10.452Z"
+    },
+    "E1|钢围檩": {
+      "block_id": "E1|钢围檩",
+      "actual_start_date": "2026-05-27",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:27:46.670Z"
+    },
+    "E1|钢支撑": {
+      "block_id": "E1|钢支撑",
+      "actual_start_date": "2026-05-27",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:27:47.870Z"
+    },
+    "E1|钢板桩": {
+      "block_id": "E1|钢板桩",
+      "actual_start_date": "2026-05-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-04-27T14:56:10.452Z"
+    },
+    "E2|钢板桩": {
+      "block_id": "E2|钢板桩",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 75.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:27:58.408Z"
+    },
+    "E3|咬合桩": {
+      "block_id": "E3|咬合桩",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:28:06.423Z"
+    },
+    "E3|混凝土支撑": {
+      "block_id": "E3|混凝土支撑",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:28:05.167Z"
+    },
+    "E3|灌注桩": {
+      "block_id": "E3|灌注桩",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:28:03.783Z"
+    },
+    "E3|管桩": {
+      "block_id": "E3|管桩",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:28:01.718Z"
+    },
+    "E4|咬合桩": {
+      "block_id": "E4|咬合桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 75.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:24:09.064Z"
+    },
+    "E4|管桩": {
+      "block_id": "E4|管桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:23:58.704Z"
+    },
+    "E4|钢围檩": {
+      "block_id": "E4|钢围檩",
+      "actual_start_date": "2026-07-12",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:28:08.814Z"
+    },
+    "E4|钢板桩": {
+      "block_id": "E4|钢板桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-07-12",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:28:07.599Z"
+    },
+    "E6|管桩": {
+      "block_id": "E6|管桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:24:43.888Z"
+    },
+    "E7|灌注桩": {
+      "block_id": "E7|灌注桩",
+      "actual_start_date": "2026-05-16",
+      "actual_finish_date": "2026-05-16",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:38:04.280Z"
+    },
+    "E7|立柱桩": {
+      "block_id": "E7|立柱桩",
+      "actual_start_date": "2026-05-16",
+      "actual_finish_date": "2026-05-16",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:38:05.693Z"
+    },
+    "E7|管桩": {
+      "block_id": "E7|管桩",
+      "actual_start_date": "2026-05-16",
+      "actual_finish_date": "2026-05-16",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:38:07.573Z"
+    },
+    "E7|钢围檩": {
+      "block_id": "E7|钢围檩",
+      "actual_start_date": "2026-05-16",
+      "actual_finish_date": "2026-05-16",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:38:00.343Z"
+    },
+    "E7|钢支撑": {
+      "block_id": "E7|钢支撑",
+      "actual_start_date": "2026-05-16",
+      "actual_finish_date": "2026-05-16",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:38:01.775Z"
+    },
+    "W1|咬合桩": {
+      "block_id": "W1|咬合桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:15.399Z"
+    },
+    "W1|管桩": {
+      "block_id": "W1|管桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:09.871Z"
+    },
+    "W1|钢围檩": {
+      "block_id": "W1|钢围檩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:13.047Z"
+    },
+    "W1|钢板桩": {
+      "block_id": "W1|钢板桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:13.879Z"
+    },
+    "W2|灌注桩": {
+      "block_id": "W2|灌注桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:50.999Z"
+    },
+    "W2|立柱桩": {
+      "block_id": "W2|立柱桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 50.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:51.855Z"
+    },
+    "W2|管桩": {
+      "block_id": "W2|管桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 75.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:50.151Z"
+    },
+    "W3|混凝土支撑": {
+      "block_id": "W3|混凝土支撑",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 25.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:18.043Z"
+    },
+    "W4|咬合桩": {
+      "block_id": "W4|咬合桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 25.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:29.183Z"
+    },
+    "W4|灌注桩": {
+      "block_id": "W4|灌注桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:23.575Z"
+    },
+    "W4|立柱桩": {
+      "block_id": "W4|立柱桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:24.359Z"
+    },
+    "W4|钢围檩": {
+      "block_id": "W4|钢围檩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 75.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:26.287Z"
+    },
+    "W5|灌注桩": {
+      "block_id": "W5|灌注桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:41.903Z"
+    },
+    "W5|管桩": {
+      "block_id": "W5|管桩",
+      "actual_start_date": "2026-04-27",
+      "actual_finish_date": "2026-04-27",
+      "actual_percent": 75.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:26:40.704Z"
+    },
+    "E7|咬合桩": {
+      "block_id": "E7|咬合桩",
+      "actual_start_date": "2026-05-16",
+      "actual_finish_date": "2026-05-16",
+      "actual_percent": 100.0,
+      "remark": "",
+      "updated_at": "2026-05-13T06:38:09.589Z"
+    }
+  }
+}

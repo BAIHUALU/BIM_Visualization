@@ -1,0 +1,1954 @@
+{
+  "generated_at": "2026-06-09T11:46:45Z",
+  "source_schedule": "schedule_data.json",
+  "summary": {
+    "schedule_block_count": 64,
+    "source_task_count": 72
+  },
+  "blocks": {
+    "E10|咬合桩": {
+      "block_id": "E10|咬合桩",
+      "zone": "E10",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-29",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 146,
+          "unique_id": 603,
+          "name": "支护桩",
+          "zone": "E10-1",
+          "display_zone": "E10",
+          "task_type": "支护桩",
+          "start_date": "2026-03-16",
+          "end_date": "2026-04-14"
+        },
+        {
+          "id": 157,
+          "unique_id": 613,
+          "name": "支护桩",
+          "zone": "E10-2",
+          "display_zone": "E10",
+          "task_type": "支护桩",
+          "start_date": "2026-03-21",
+          "end_date": "2026-04-19"
+        },
+        {
+          "id": 168,
+          "unique_id": 623,
+          "name": "支护桩",
+          "zone": "E10-3",
+          "display_zone": "E10",
+          "task_type": "支护桩",
+          "start_date": "2026-03-26",
+          "end_date": "2026-04-24"
+        },
+        {
+          "id": 179,
+          "unique_id": 633,
+          "name": "支护桩",
+          "zone": "E10-4",
+          "display_zone": "E10",
+          "task_type": "支护桩",
+          "start_date": "2026-03-31",
+          "end_date": "2026-04-29"
+        }
+      ]
+    },
+    "E10|灌注桩": {
+      "block_id": "E10|灌注桩",
+      "zone": "E10",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-13",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 144,
+          "unique_id": 601,
+          "name": "工程桩",
+          "zone": "E10-1",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 155,
+          "unique_id": 611,
+          "name": "工程桩",
+          "zone": "E10-2",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        },
+        {
+          "id": 166,
+          "unique_id": 621,
+          "name": "工程桩",
+          "zone": "E10-3",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-13"
+        },
+        {
+          "id": 177,
+          "unique_id": 631,
+          "name": "工程桩",
+          "zone": "E10-4",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-13"
+        }
+      ]
+    },
+    "E10|立柱桩": {
+      "block_id": "E10|立柱桩",
+      "zone": "E10",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-13",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 144,
+          "unique_id": 601,
+          "name": "工程桩",
+          "zone": "E10-1",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 155,
+          "unique_id": 611,
+          "name": "工程桩",
+          "zone": "E10-2",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        },
+        {
+          "id": 166,
+          "unique_id": 621,
+          "name": "工程桩",
+          "zone": "E10-3",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-13"
+        },
+        {
+          "id": 177,
+          "unique_id": 631,
+          "name": "工程桩",
+          "zone": "E10-4",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-13"
+        }
+      ]
+    },
+    "E10|管桩": {
+      "block_id": "E10|管桩",
+      "zone": "E10",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-13",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 144,
+          "unique_id": 601,
+          "name": "工程桩",
+          "zone": "E10-1",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 155,
+          "unique_id": 611,
+          "name": "工程桩",
+          "zone": "E10-2",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        },
+        {
+          "id": 166,
+          "unique_id": 621,
+          "name": "工程桩",
+          "zone": "E10-3",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-13"
+        },
+        {
+          "id": 177,
+          "unique_id": 631,
+          "name": "工程桩",
+          "zone": "E10-4",
+          "display_zone": "E10",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-13"
+        }
+      ]
+    },
+    "E11|咬合桩": {
+      "block_id": "E11|咬合桩",
+      "zone": "E11",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-05",
+      "end_date": "2026-06-13",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 191,
+          "unique_id": 643,
+          "name": "支护桩",
+          "zone": "E11-1",
+          "display_zone": "E11",
+          "task_type": "支护桩",
+          "start_date": "2026-05-05",
+          "end_date": "2026-06-03"
+        },
+        {
+          "id": 204,
+          "unique_id": 653,
+          "name": "支护桩",
+          "zone": "E11-2",
+          "display_zone": "E11",
+          "task_type": "支护桩",
+          "start_date": "2026-05-10",
+          "end_date": "2026-06-08"
+        },
+        {
+          "id": 217,
+          "unique_id": 665,
+          "name": "支护桩",
+          "zone": "E11-3",
+          "display_zone": "E11",
+          "task_type": "支护桩",
+          "start_date": "2026-05-15",
+          "end_date": "2026-06-13"
+        },
+        {
+          "id": 230,
+          "unique_id": 677,
+          "name": "支护桩",
+          "zone": "E11-4",
+          "display_zone": "E11",
+          "task_type": "支护桩",
+          "start_date": "2026-05-15",
+          "end_date": "2026-06-13"
+        }
+      ]
+    },
+    "E11|灌注桩": {
+      "block_id": "E11|灌注桩",
+      "zone": "E11",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 189,
+          "unique_id": 641,
+          "name": "工程桩",
+          "zone": "E11-1",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 202,
+          "unique_id": 651,
+          "name": "工程桩",
+          "zone": "E11-2",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 215,
+          "unique_id": 663,
+          "name": "工程桩",
+          "zone": "E11-3",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 228,
+          "unique_id": 675,
+          "name": "工程桩",
+          "zone": "E11-4",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        }
+      ]
+    },
+    "E11|立柱桩": {
+      "block_id": "E11|立柱桩",
+      "zone": "E11",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 189,
+          "unique_id": 641,
+          "name": "工程桩",
+          "zone": "E11-1",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 202,
+          "unique_id": 651,
+          "name": "工程桩",
+          "zone": "E11-2",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 215,
+          "unique_id": 663,
+          "name": "工程桩",
+          "zone": "E11-3",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 228,
+          "unique_id": 675,
+          "name": "工程桩",
+          "zone": "E11-4",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        }
+      ]
+    },
+    "E11|管桩": {
+      "block_id": "E11|管桩",
+      "zone": "E11",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 189,
+          "unique_id": 641,
+          "name": "工程桩",
+          "zone": "E11-1",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 202,
+          "unique_id": 651,
+          "name": "工程桩",
+          "zone": "E11-2",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 215,
+          "unique_id": 663,
+          "name": "工程桩",
+          "zone": "E11-3",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 228,
+          "unique_id": 675,
+          "name": "工程桩",
+          "zone": "E11-4",
+          "display_zone": "E11",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        }
+      ]
+    },
+    "E12|咬合桩": {
+      "block_id": "E12|咬合桩",
+      "zone": "E12",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-05",
+      "end_date": "2026-06-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 244,
+          "unique_id": 689,
+          "name": "支护桩",
+          "zone": "E12-1",
+          "display_zone": "E12",
+          "task_type": "支护桩",
+          "start_date": "2026-05-05",
+          "end_date": "2026-06-03"
+        },
+        {
+          "id": 257,
+          "unique_id": 701,
+          "name": "支护桩",
+          "zone": "E12-2",
+          "display_zone": "E12",
+          "task_type": "支护桩",
+          "start_date": "2026-05-10",
+          "end_date": "2026-06-08"
+        },
+        {
+          "id": 270,
+          "unique_id": 713,
+          "name": "支护桩",
+          "zone": "E12-3",
+          "display_zone": "E12",
+          "task_type": "支护桩",
+          "start_date": "2026-05-10",
+          "end_date": "2026-06-08"
+        }
+      ]
+    },
+    "E12|灌注桩": {
+      "block_id": "E12|灌注桩",
+      "zone": "E12",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 242,
+          "unique_id": 687,
+          "name": "工程桩",
+          "zone": "E12-1",
+          "display_zone": "E12",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 255,
+          "unique_id": 699,
+          "name": "工程桩",
+          "zone": "E12-2",
+          "display_zone": "E12",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 268,
+          "unique_id": 711,
+          "name": "工程桩",
+          "zone": "E12-3",
+          "display_zone": "E12",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        }
+      ]
+    },
+    "E12|立柱桩": {
+      "block_id": "E12|立柱桩",
+      "zone": "E12",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 242,
+          "unique_id": 687,
+          "name": "工程桩",
+          "zone": "E12-1",
+          "display_zone": "E12",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 255,
+          "unique_id": 699,
+          "name": "工程桩",
+          "zone": "E12-2",
+          "display_zone": "E12",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 268,
+          "unique_id": 711,
+          "name": "工程桩",
+          "zone": "E12-3",
+          "display_zone": "E12",
+          "task_type": "工程桩",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-20"
+        }
+      ]
+    },
+    "E13|灌注桩": {
+      "block_id": "E13|灌注桩",
+      "zone": "E13",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-08-10",
+      "end_date": "2026-10-09",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 281,
+          "unique_id": 281,
+          "name": "工程桩",
+          "zone": "E13",
+          "display_zone": "E13",
+          "task_type": "工程桩",
+          "start_date": "2026-08-10",
+          "end_date": "2026-10-09"
+        }
+      ]
+    },
+    "E1|咬合桩": {
+      "block_id": "E1|咬合桩",
+      "zone": "E1",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-21",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 36,
+          "unique_id": 9,
+          "name": "支护桩（工法桩113）",
+          "zone": "E1",
+          "display_zone": "E1",
+          "task_type": "支护桩",
+          "start_date": "2026-05-08",
+          "end_date": "2026-05-21"
+        }
+      ]
+    },
+    "E1|管桩": {
+      "block_id": "E1|管桩",
+      "zone": "E1",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-09",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 33,
+          "unique_id": 8,
+          "name": "工程桩（管桩292）",
+          "zone": "E1",
+          "display_zone": "E1",
+          "task_type": "工程桩",
+          "start_date": "2026-03-01",
+          "end_date": "2026-04-09"
+        }
+      ]
+    },
+    "E1|钢支撑": {
+      "block_id": "E1|钢支撑",
+      "zone": "E1",
+      "category": "钢支撑",
+      "official_group": "钢支撑",
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-21",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 38,
+          "unique_id": 12,
+          "name": "钢支撑",
+          "zone": "E1",
+          "display_zone": "E1",
+          "task_type": "钢支撑",
+          "start_date": "2026-05-08",
+          "end_date": "2026-05-21"
+        }
+      ]
+    },
+    "E1|钢板桩": {
+      "block_id": "E1|钢板桩",
+      "zone": "E1",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-08",
+      "end_date": "2026-05-07",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 35,
+          "unique_id": 340,
+          "name": "支护桩（钢板桩791）",
+          "zone": "E1",
+          "display_zone": "E1",
+          "task_type": "支护桩",
+          "start_date": "2026-04-08",
+          "end_date": "2026-05-07"
+        }
+      ]
+    },
+    "E2|管桩": {
+      "block_id": "E2|管桩",
+      "zone": "E2",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-10",
+      "end_date": "2026-05-24",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 42,
+          "unique_id": 197,
+          "name": "工程桩（管桩353）",
+          "zone": "E2",
+          "display_zone": "E2",
+          "task_type": "工程桩",
+          "start_date": "2026-04-10",
+          "end_date": "2026-05-24"
+        }
+      ]
+    },
+    "E2|钢支撑": {
+      "block_id": "E2|钢支撑",
+      "zone": "E2",
+      "category": "钢支撑",
+      "official_group": "钢支撑",
+      "start_date": "2026-06-02",
+      "end_date": "2026-06-21",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 45,
+          "unique_id": 200,
+          "name": "钢支撑",
+          "zone": "E2",
+          "display_zone": "E2",
+          "task_type": "钢支撑",
+          "start_date": "2026-06-02",
+          "end_date": "2026-06-21"
+        }
+      ]
+    },
+    "E2|钢板桩": {
+      "block_id": "E2|钢板桩",
+      "zone": "E2",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-08",
+      "end_date": "2026-06-16",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 44,
+          "unique_id": 339,
+          "name": "支护桩（钢板桩817）",
+          "zone": "E2",
+          "display_zone": "E2",
+          "task_type": "支护桩",
+          "start_date": "2026-05-08",
+          "end_date": "2026-06-16"
+        }
+      ]
+    },
+    "E3|咬合桩": {
+      "block_id": "E3|咬合桩",
+      "zone": "E3",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-06",
+      "end_date": "2026-04-20",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 52,
+          "unique_id": 348,
+          "name": "支护桩（工法桩104）",
+          "zone": "E3",
+          "display_zone": "E3",
+          "task_type": "支护桩",
+          "start_date": "2026-04-06",
+          "end_date": "2026-04-20"
+        }
+      ]
+    },
+    "E3|管桩": {
+      "block_id": "E3|管桩",
+      "zone": "E3",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-09",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 49,
+          "unique_id": 345,
+          "name": "工程桩（管桩448）",
+          "zone": "E3",
+          "display_zone": "E3",
+          "task_type": "工程桩",
+          "start_date": "2026-03-01",
+          "end_date": "2026-04-09"
+        }
+      ]
+    },
+    "E3|钢支撑": {
+      "block_id": "E3|钢支撑",
+      "zone": "E3",
+      "category": "钢支撑",
+      "official_group": "钢支撑",
+      "start_date": "2026-05-06",
+      "end_date": "2026-06-04",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 54,
+          "unique_id": 350,
+          "name": "钢支撑",
+          "zone": "E3",
+          "display_zone": "E3",
+          "task_type": "钢支撑",
+          "start_date": "2026-05-06",
+          "end_date": "2026-06-04"
+        }
+      ]
+    },
+    "E3|钢板桩": {
+      "block_id": "E3|钢板桩",
+      "zone": "E3",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-06",
+      "end_date": "2026-05-15",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 51,
+          "unique_id": 347,
+          "name": "支护桩（钢板桩920）",
+          "zone": "E3",
+          "display_zone": "E3",
+          "task_type": "支护桩",
+          "start_date": "2026-04-06",
+          "end_date": "2026-05-15"
+        }
+      ]
+    },
+    "E4|管桩": {
+      "block_id": "E4|管桩",
+      "zone": "E4",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-10",
+      "end_date": "2026-05-19",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 58,
+          "unique_id": 353,
+          "name": "工程桩（管桩573）",
+          "zone": "E4",
+          "display_zone": "E4",
+          "task_type": "工程桩",
+          "start_date": "2026-04-10",
+          "end_date": "2026-05-19"
+        }
+      ]
+    },
+    "E4|钢支撑": {
+      "block_id": "E4|钢支撑",
+      "zone": "E4",
+      "category": "钢支撑",
+      "official_group": "钢支撑",
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-24",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 61,
+          "unique_id": 356,
+          "name": "钢支撑",
+          "zone": "E4",
+          "display_zone": "E4",
+          "task_type": "钢支撑",
+          "start_date": "2026-06-05",
+          "end_date": "2026-06-24"
+        }
+      ]
+    },
+    "E4|钢板桩": {
+      "block_id": "E4|钢板桩",
+      "zone": "E4",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-16",
+      "end_date": "2026-06-14",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 60,
+          "unique_id": 355,
+          "name": "支护桩（钢板桩938）",
+          "zone": "E4",
+          "display_zone": "E4",
+          "task_type": "支护桩",
+          "start_date": "2026-05-16",
+          "end_date": "2026-06-14"
+        }
+      ]
+    },
+    "E5|灌注桩": {
+      "block_id": "E5|灌注桩",
+      "zone": "E5",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-07",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 66,
+          "unique_id": 221,
+          "name": "工程桩（灌注桩9）",
+          "zone": "E5",
+          "display_zone": "E5",
+          "task_type": "工程桩",
+          "start_date": "2026-06-01",
+          "end_date": "2026-06-07"
+        }
+      ]
+    },
+    "E5|管桩": {
+      "block_id": "E5|管桩",
+      "zone": "E5",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-05-25",
+      "end_date": "2026-06-23",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 65,
+          "unique_id": 361,
+          "name": "工程桩（管桩290）",
+          "zone": "E5",
+          "display_zone": "E5",
+          "task_type": "工程桩",
+          "start_date": "2026-05-25",
+          "end_date": "2026-06-23"
+        }
+      ]
+    },
+    "E6|灌注桩": {
+      "block_id": "E6|灌注桩",
+      "zone": "E6",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-06-08",
+      "end_date": "2026-07-09",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 70,
+          "unique_id": 209,
+          "name": "工程桩（灌注桩94）",
+          "zone": "E6",
+          "display_zone": "E6",
+          "task_type": "工程桩",
+          "start_date": "2026-06-08",
+          "end_date": "2026-07-09"
+        }
+      ]
+    },
+    "E6|管桩": {
+      "block_id": "E6|管桩",
+      "zone": "E6",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-29",
+      "match_level": "exact",
+      "source_tasks": [
+        {
+          "id": 69,
+          "unique_id": 360,
+          "name": "工程桩（管桩101）",
+          "zone": "E6",
+          "display_zone": "E6",
+          "task_type": "工程桩",
+          "start_date": "2026-05-20",
+          "end_date": "2026-05-29"
+        }
+      ]
+    },
+    "E7|咬合桩": {
+      "block_id": "E7|咬合桩",
+      "zone": "E7",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-24",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 76,
+          "unique_id": 230,
+          "name": "支护桩",
+          "zone": "E7-1",
+          "display_zone": "E7",
+          "task_type": "支护桩",
+          "start_date": "2026-03-16",
+          "end_date": "2026-04-14"
+        },
+        {
+          "id": 85,
+          "unique_id": 374,
+          "name": "支护桩",
+          "zone": "E7-2",
+          "display_zone": "E7",
+          "task_type": "支护桩",
+          "start_date": "2026-03-21",
+          "end_date": "2026-04-19"
+        },
+        {
+          "id": 94,
+          "unique_id": 366,
+          "name": "支护桩",
+          "zone": "E7-3",
+          "display_zone": "E7",
+          "task_type": "支护桩",
+          "start_date": "2026-03-26",
+          "end_date": "2026-04-24"
+        }
+      ]
+    },
+    "E7|灌注桩": {
+      "block_id": "E7|灌注桩",
+      "zone": "E7",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-03",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 74,
+          "unique_id": 228,
+          "name": "工程桩",
+          "zone": "E7-1",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 83,
+          "unique_id": 372,
+          "name": "工程桩",
+          "zone": "E7-2",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 92,
+          "unique_id": 364,
+          "name": "工程桩",
+          "zone": "E7-3",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        }
+      ]
+    },
+    "E7|立柱桩": {
+      "block_id": "E7|立柱桩",
+      "zone": "E7",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-03",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 74,
+          "unique_id": 228,
+          "name": "工程桩",
+          "zone": "E7-1",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 83,
+          "unique_id": 372,
+          "name": "工程桩",
+          "zone": "E7-2",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 92,
+          "unique_id": 364,
+          "name": "工程桩",
+          "zone": "E7-3",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        }
+      ]
+    },
+    "E7|管桩": {
+      "block_id": "E7|管桩",
+      "zone": "E7",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-03",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 74,
+          "unique_id": 228,
+          "name": "工程桩",
+          "zone": "E7-1",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 83,
+          "unique_id": 372,
+          "name": "工程桩",
+          "zone": "E7-2",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 92,
+          "unique_id": 364,
+          "name": "工程桩",
+          "zone": "E7-3",
+          "display_zone": "E7",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        }
+      ]
+    },
+    "E8|咬合桩": {
+      "block_id": "E8|咬合桩",
+      "zone": "E8",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-19",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 104,
+          "unique_id": 570,
+          "name": "支护桩",
+          "zone": "E8-1",
+          "display_zone": "E8",
+          "task_type": "支护桩",
+          "start_date": "2026-03-16",
+          "end_date": "2026-04-14"
+        },
+        {
+          "id": 113,
+          "unique_id": 578,
+          "name": "支护桩",
+          "zone": "E8-2",
+          "display_zone": "E8",
+          "task_type": "支护桩",
+          "start_date": "2026-03-21",
+          "end_date": "2026-04-19"
+        }
+      ]
+    },
+    "E8|灌注桩": {
+      "block_id": "E8|灌注桩",
+      "zone": "E8",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 102,
+          "unique_id": 568,
+          "name": "工程桩",
+          "zone": "E8-1",
+          "display_zone": "E8",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 111,
+          "unique_id": 576,
+          "name": "工程桩",
+          "zone": "E8-2",
+          "display_zone": "E8",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        }
+      ]
+    },
+    "E8|立柱桩": {
+      "block_id": "E8|立柱桩",
+      "zone": "E8",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 102,
+          "unique_id": 568,
+          "name": "工程桩",
+          "zone": "E8-1",
+          "display_zone": "E8",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 111,
+          "unique_id": 576,
+          "name": "工程桩",
+          "zone": "E8-2",
+          "display_zone": "E8",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        }
+      ]
+    },
+    "E9|咬合桩": {
+      "block_id": "E9|咬合桩",
+      "zone": "E9",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-19",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 123,
+          "unique_id": 586,
+          "name": "支护桩",
+          "zone": "E9-1",
+          "display_zone": "E9",
+          "task_type": "支护桩",
+          "start_date": "2026-03-16",
+          "end_date": "2026-04-14"
+        },
+        {
+          "id": 134,
+          "unique_id": 593,
+          "name": "支护桩",
+          "zone": "E9-2",
+          "display_zone": "E9",
+          "task_type": "支护桩",
+          "start_date": "2026-03-21",
+          "end_date": "2026-04-19"
+        }
+      ]
+    },
+    "E9|灌注桩": {
+      "block_id": "E9|灌注桩",
+      "zone": "E9",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 121,
+          "unique_id": 584,
+          "name": "工程桩",
+          "zone": "E9-1",
+          "display_zone": "E9",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 132,
+          "unique_id": 591,
+          "name": "工程桩",
+          "zone": "E9-2",
+          "display_zone": "E9",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        }
+      ]
+    },
+    "E9|立柱桩": {
+      "block_id": "E9|立柱桩",
+      "zone": "E9",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 121,
+          "unique_id": 584,
+          "name": "工程桩",
+          "zone": "E9-1",
+          "display_zone": "E9",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 132,
+          "unique_id": 591,
+          "name": "工程桩",
+          "zone": "E9-2",
+          "display_zone": "E9",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        }
+      ]
+    },
+    "E9|管桩": {
+      "block_id": "E9|管桩",
+      "zone": "E9",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 121,
+          "unique_id": 584,
+          "name": "工程桩",
+          "zone": "E9-1",
+          "display_zone": "E9",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-03"
+        },
+        {
+          "id": 132,
+          "unique_id": 591,
+          "name": "工程桩",
+          "zone": "E9-2",
+          "display_zone": "E9",
+          "task_type": "工程桩",
+          "start_date": "2026-03-25",
+          "end_date": "2026-05-08"
+        }
+      ]
+    },
+    "W1|咬合桩": {
+      "block_id": "W1|咬合桩",
+      "zone": "W1",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-21",
+      "end_date": "2026-05-15",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 287,
+          "unique_id": 290,
+          "name": "支护桩",
+          "zone": "W1",
+          "display_zone": "W1",
+          "task_type": "支护桩",
+          "start_date": "2026-04-21",
+          "end_date": "2026-05-15"
+        }
+      ]
+    },
+    "W1|管桩": {
+      "block_id": "W1|管桩",
+      "zone": "W1",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-14",
+      "end_date": "2026-04-12",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 285,
+          "unique_id": 289,
+          "name": "工程桩",
+          "zone": "W1",
+          "display_zone": "W1",
+          "task_type": "工程桩",
+          "start_date": "2026-03-14",
+          "end_date": "2026-04-12"
+        }
+      ]
+    },
+    "W1|钢板桩": {
+      "block_id": "W1|钢板桩",
+      "zone": "W1",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-21",
+      "end_date": "2026-05-15",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 287,
+          "unique_id": 290,
+          "name": "支护桩",
+          "zone": "W1",
+          "display_zone": "W1",
+          "task_type": "支护桩",
+          "start_date": "2026-04-21",
+          "end_date": "2026-05-15"
+        }
+      ]
+    },
+    "W2|咬合桩": {
+      "block_id": "W2|咬合桩",
+      "zone": "W2",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-21",
+      "end_date": "2026-06-14",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 294,
+          "unique_id": 733,
+          "name": "支护桩",
+          "zone": "W2",
+          "display_zone": "W2",
+          "task_type": "支护桩",
+          "start_date": "2026-05-21",
+          "end_date": "2026-06-14"
+        }
+      ]
+    },
+    "W2|灌注桩": {
+      "block_id": "W2|灌注桩",
+      "zone": "W2",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-13",
+      "end_date": "2026-05-12",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 292,
+          "unique_id": 731,
+          "name": "工程桩",
+          "zone": "W2",
+          "display_zone": "W2",
+          "task_type": "工程桩",
+          "start_date": "2026-04-13",
+          "end_date": "2026-05-12"
+        }
+      ]
+    },
+    "W2|立柱桩": {
+      "block_id": "W2|立柱桩",
+      "zone": "W2",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-13",
+      "end_date": "2026-05-12",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 292,
+          "unique_id": 731,
+          "name": "工程桩",
+          "zone": "W2",
+          "display_zone": "W2",
+          "task_type": "工程桩",
+          "start_date": "2026-04-13",
+          "end_date": "2026-05-12"
+        }
+      ]
+    },
+    "W2|管桩": {
+      "block_id": "W2|管桩",
+      "zone": "W2",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-13",
+      "end_date": "2026-05-12",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 292,
+          "unique_id": 731,
+          "name": "工程桩",
+          "zone": "W2",
+          "display_zone": "W2",
+          "task_type": "工程桩",
+          "start_date": "2026-04-13",
+          "end_date": "2026-05-12"
+        }
+      ]
+    },
+    "W2|钢板桩": {
+      "block_id": "W2|钢板桩",
+      "zone": "W2",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-21",
+      "end_date": "2026-06-14",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 294,
+          "unique_id": 733,
+          "name": "支护桩",
+          "zone": "W2",
+          "display_zone": "W2",
+          "task_type": "支护桩",
+          "start_date": "2026-05-21",
+          "end_date": "2026-06-14"
+        }
+      ]
+    },
+    "W3|咬合桩": {
+      "block_id": "W3|咬合桩",
+      "zone": "W3",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-02-24",
+      "end_date": "2026-07-13",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 303,
+          "unique_id": 740,
+          "name": "支护桩",
+          "zone": "W3-1",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-04-21",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 310,
+          "unique_id": 563,
+          "name": "支护桩",
+          "zone": "W3-2",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-02-24",
+          "end_date": "2026-04-14"
+        },
+        {
+          "id": 318,
+          "unique_id": 760,
+          "name": "支护桩",
+          "zone": "W3-3",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-04-15",
+          "end_date": "2026-05-29"
+        },
+        {
+          "id": 326,
+          "unique_id": 767,
+          "name": "支护桩",
+          "zone": "W3-4",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-05-30",
+          "end_date": "2026-07-13"
+        }
+      ]
+    },
+    "W3|灌注桩": {
+      "block_id": "W3|灌注桩",
+      "zone": "W3",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-14",
+      "end_date": "2026-09-02",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 301,
+          "unique_id": 738,
+          "name": "工程桩",
+          "zone": "W3-1",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-03-14",
+          "end_date": "2026-04-12"
+        },
+        {
+          "id": 309,
+          "unique_id": 562,
+          "name": "工程桩",
+          "zone": "W3-2",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-05-01",
+          "end_date": "2026-06-09"
+        },
+        {
+          "id": 317,
+          "unique_id": 759,
+          "name": "工程桩",
+          "zone": "W3-3",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-06-10",
+          "end_date": "2026-07-24"
+        },
+        {
+          "id": 325,
+          "unique_id": 766,
+          "name": "工程桩",
+          "zone": "W3-4",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-07-25",
+          "end_date": "2026-09-02"
+        }
+      ]
+    },
+    "W3|立柱桩": {
+      "block_id": "W3|立柱桩",
+      "zone": "W3",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-14",
+      "end_date": "2026-09-02",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 301,
+          "unique_id": 738,
+          "name": "工程桩",
+          "zone": "W3-1",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-03-14",
+          "end_date": "2026-04-12"
+        },
+        {
+          "id": 309,
+          "unique_id": 562,
+          "name": "工程桩",
+          "zone": "W3-2",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-05-01",
+          "end_date": "2026-06-09"
+        },
+        {
+          "id": 317,
+          "unique_id": 759,
+          "name": "工程桩",
+          "zone": "W3-3",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-06-10",
+          "end_date": "2026-07-24"
+        },
+        {
+          "id": 325,
+          "unique_id": 766,
+          "name": "工程桩",
+          "zone": "W3-4",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-07-25",
+          "end_date": "2026-09-02"
+        }
+      ]
+    },
+    "W3|管桩": {
+      "block_id": "W3|管桩",
+      "zone": "W3",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-14",
+      "end_date": "2026-09-02",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 301,
+          "unique_id": 738,
+          "name": "工程桩",
+          "zone": "W3-1",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-03-14",
+          "end_date": "2026-04-12"
+        },
+        {
+          "id": 309,
+          "unique_id": 562,
+          "name": "工程桩",
+          "zone": "W3-2",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-05-01",
+          "end_date": "2026-06-09"
+        },
+        {
+          "id": 317,
+          "unique_id": 759,
+          "name": "工程桩",
+          "zone": "W3-3",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-06-10",
+          "end_date": "2026-07-24"
+        },
+        {
+          "id": 325,
+          "unique_id": 766,
+          "name": "工程桩",
+          "zone": "W3-4",
+          "display_zone": "W3",
+          "task_type": "工程桩",
+          "start_date": "2026-07-25",
+          "end_date": "2026-09-02"
+        }
+      ]
+    },
+    "W3|钢板桩": {
+      "block_id": "W3|钢板桩",
+      "zone": "W3",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-02-24",
+      "end_date": "2026-07-13",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 303,
+          "unique_id": 740,
+          "name": "支护桩",
+          "zone": "W3-1",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-04-21",
+          "end_date": "2026-05-20"
+        },
+        {
+          "id": 310,
+          "unique_id": 563,
+          "name": "支护桩",
+          "zone": "W3-2",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-02-24",
+          "end_date": "2026-04-14"
+        },
+        {
+          "id": 318,
+          "unique_id": 760,
+          "name": "支护桩",
+          "zone": "W3-3",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-04-15",
+          "end_date": "2026-05-29"
+        },
+        {
+          "id": 326,
+          "unique_id": 767,
+          "name": "支护桩",
+          "zone": "W3-4",
+          "display_zone": "W3",
+          "task_type": "支护桩",
+          "start_date": "2026-05-30",
+          "end_date": "2026-07-13"
+        }
+      ]
+    },
+    "W4|咬合桩": {
+      "block_id": "W4|咬合桩",
+      "zone": "W4",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-16",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 335,
+          "unique_id": 747,
+          "name": "支护桩",
+          "zone": "W4",
+          "display_zone": "W4",
+          "task_type": "支护桩",
+          "start_date": "2026-04-17",
+          "end_date": "2026-05-16"
+        }
+      ]
+    },
+    "W4|灌注桩": {
+      "block_id": "W4|灌注桩",
+      "zone": "W4",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 333,
+          "unique_id": 745,
+          "name": "工程桩",
+          "zone": "W4",
+          "display_zone": "W4",
+          "task_type": "工程桩",
+          "start_date": "2026-03-15",
+          "end_date": "2026-04-08"
+        }
+      ]
+    },
+    "W4|立柱桩": {
+      "block_id": "W4|立柱桩",
+      "zone": "W4",
+      "category": "立柱桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 333,
+          "unique_id": 745,
+          "name": "工程桩",
+          "zone": "W4",
+          "display_zone": "W4",
+          "task_type": "工程桩",
+          "start_date": "2026-03-15",
+          "end_date": "2026-04-08"
+        }
+      ]
+    },
+    "W4|管桩": {
+      "block_id": "W4|管桩",
+      "zone": "W4",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-08",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 333,
+          "unique_id": 745,
+          "name": "工程桩",
+          "zone": "W4",
+          "display_zone": "W4",
+          "task_type": "工程桩",
+          "start_date": "2026-03-15",
+          "end_date": "2026-04-08"
+        }
+      ]
+    },
+    "W4|钢板桩": {
+      "block_id": "W4|钢板桩",
+      "zone": "W4",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-16",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 335,
+          "unique_id": 747,
+          "name": "支护桩",
+          "zone": "W4",
+          "display_zone": "W4",
+          "task_type": "支护桩",
+          "start_date": "2026-04-17",
+          "end_date": "2026-05-16"
+        }
+      ]
+    },
+    "W5|咬合桩": {
+      "block_id": "W5|咬合桩",
+      "zone": "W5",
+      "category": "咬合桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-12",
+      "end_date": "2026-06-10",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 343,
+          "unique_id": 754,
+          "name": "支护桩",
+          "zone": "W5",
+          "display_zone": "W5",
+          "task_type": "支护桩",
+          "start_date": "2026-05-12",
+          "end_date": "2026-06-10"
+        }
+      ]
+    },
+    "W5|灌注桩": {
+      "block_id": "W5|灌注桩",
+      "zone": "W5",
+      "category": "灌注桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-09",
+      "end_date": "2026-05-03",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 341,
+          "unique_id": 752,
+          "name": "工程桩",
+          "zone": "W5",
+          "display_zone": "W5",
+          "task_type": "工程桩",
+          "start_date": "2026-04-09",
+          "end_date": "2026-05-03"
+        }
+      ]
+    },
+    "W5|管桩": {
+      "block_id": "W5|管桩",
+      "zone": "W5",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-04-09",
+      "end_date": "2026-05-03",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 341,
+          "unique_id": 752,
+          "name": "工程桩",
+          "zone": "W5",
+          "display_zone": "W5",
+          "task_type": "工程桩",
+          "start_date": "2026-04-09",
+          "end_date": "2026-05-03"
+        }
+      ]
+    },
+    "W5|钢板桩": {
+      "block_id": "W5|钢板桩",
+      "zone": "W5",
+      "category": "钢板桩",
+      "official_group": "支护桩",
+      "start_date": "2026-05-12",
+      "end_date": "2026-06-10",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 343,
+          "unique_id": 754,
+          "name": "支护桩",
+          "zone": "W5",
+          "display_zone": "W5",
+          "task_type": "支护桩",
+          "start_date": "2026-05-12",
+          "end_date": "2026-06-10"
+        }
+      ]
+    },
+    "W6|管桩": {
+      "block_id": "W6|管桩",
+      "zone": "W6",
+      "category": "管桩",
+      "official_group": "工程桩",
+      "start_date": "2026-05-04",
+      "end_date": "2026-06-18",
+      "match_level": "coarse",
+      "source_tasks": [
+        {
+          "id": 349,
+          "unique_id": 313,
+          "name": "工程桩",
+          "zone": "W6",
+          "display_zone": "W6",
+          "task_type": "工程桩",
+          "start_date": "2026-05-04",
+          "end_date": "2026-06-18"
+        }
+      ]
+    }
+  }
+}

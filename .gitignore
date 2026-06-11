@@ -1,0 +1,23 @@
+.deps/
+.idea/
+.git-backups/
+
+# Python
+Backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node / frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# Logs and local environment
+*.log
+.env
+.env.*
+
+# OS/editor noise
+Thumbs.db
+.DS_Store

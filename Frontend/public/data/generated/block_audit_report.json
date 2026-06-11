@@ -1,0 +1,9060 @@
+{
+  "generated_at": "2026-04-27T02:35:06Z",
+  "summary": {
+    "model_block_count": 101,
+    "schedule_block_count": 64,
+    "matched_block_count": 62,
+    "model_without_schedule_count": 39,
+    "schedule_without_model_count": 2,
+    "unassigned_mesh_count": 338,
+    "unclassified_mesh_count": 0
+  },
+  "model_without_schedule": [
+    {
+      "block_id": "E10|混凝土支撑",
+      "zone": "E10",
+      "category": "混凝土支撑",
+      "mesh_count": 1,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E10|钢支撑",
+      "zone": "E10",
+      "category": "钢支撑",
+      "mesh_count": 133,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E11|钢围檩",
+      "zone": "E11",
+      "category": "钢围檩",
+      "mesh_count": 22,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E11|钢支撑",
+      "zone": "E11",
+      "category": "钢支撑",
+      "mesh_count": 104,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E12|混凝土支撑",
+      "zone": "E12",
+      "category": "混凝土支撑",
+      "mesh_count": 1,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E12|钢围檩",
+      "zone": "E12",
+      "category": "钢围檩",
+      "mesh_count": 2,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E12|钢支撑",
+      "zone": "E12",
+      "category": "钢支撑",
+      "mesh_count": 296,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E1|钢围檩",
+      "zone": "E1",
+      "category": "钢围檩",
+      "mesh_count": 189,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E2|钢围檩",
+      "zone": "E2",
+      "category": "钢围檩",
+      "mesh_count": 2,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E3|混凝土支撑",
+      "zone": "E3",
+      "category": "混凝土支撑",
+      "mesh_count": 1,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E3|灌注桩",
+      "zone": "E3",
+      "category": "灌注桩",
+      "mesh_count": 4,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E3|钢围檩",
+      "zone": "E3",
+      "category": "钢围檩",
+      "mesh_count": 94,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E4|咬合桩",
+      "zone": "E4",
+      "category": "咬合桩",
+      "mesh_count": 330,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E4|灌注桩",
+      "zone": "E4",
+      "category": "灌注桩",
+      "mesh_count": 11,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E4|钢围檩",
+      "zone": "E4",
+      "category": "钢围檩",
+      "mesh_count": 66,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E5|钢围檩",
+      "zone": "E5",
+      "category": "钢围檩",
+      "mesh_count": 7,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E5|钢板桩",
+      "zone": "E5",
+      "category": "钢板桩",
+      "mesh_count": 242,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E7|钢围檩",
+      "zone": "E7",
+      "category": "钢围檩",
+      "mesh_count": 2,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E7|钢支撑",
+      "zone": "E7",
+      "category": "钢支撑",
+      "mesh_count": 50,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E8|钢支撑",
+      "zone": "E8",
+      "category": "钢支撑",
+      "mesh_count": 84,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E9|混凝土支撑",
+      "zone": "E9",
+      "category": "混凝土支撑",
+      "mesh_count": 1,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "E9|钢支撑",
+      "zone": "E9",
+      "category": "钢支撑",
+      "mesh_count": 68,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W1|钢围檩",
+      "zone": "W1",
+      "category": "钢围檩",
+      "mesh_count": 300,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W1|钢支撑",
+      "zone": "W1",
+      "category": "钢支撑",
+      "mesh_count": 19,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W2|钢围檩",
+      "zone": "W2",
+      "category": "钢围檩",
+      "mesh_count": 597,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W2|钢支撑",
+      "zone": "W2",
+      "category": "钢支撑",
+      "mesh_count": 45,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W3|混凝土支撑",
+      "zone": "W3",
+      "category": "混凝土支撑",
+      "mesh_count": 2,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W3|钢围檩",
+      "zone": "W3",
+      "category": "钢围檩",
+      "mesh_count": 175,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W3|钢支撑",
+      "zone": "W3",
+      "category": "钢支撑",
+      "mesh_count": 102,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W4|钢围檩",
+      "zone": "W4",
+      "category": "钢围檩",
+      "mesh_count": 49,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W4|钢支撑",
+      "zone": "W4",
+      "category": "钢支撑",
+      "mesh_count": 33,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W5|钢围檩",
+      "zone": "W5",
+      "category": "钢围檩",
+      "mesh_count": 91,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "W5|钢支撑",
+      "zone": "W5",
+      "category": "钢支撑",
+      "mesh_count": 7,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "unassigned|咬合桩",
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "mesh_count": 90,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "unassigned|灌注桩",
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "mesh_count": 84,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "unassigned|立柱桩",
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "mesh_count": 40,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "unassigned|管桩",
+      "zone": "unassigned",
+      "category": "管桩",
+      "mesh_count": 58,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "unassigned|钢围檩",
+      "zone": "unassigned",
+      "category": "钢围檩",
+      "mesh_count": 4,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    },
+    {
+      "block_id": "unassigned|钢支撑",
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "mesh_count": 62,
+      "start_date": null,
+      "end_date": null,
+      "match_level": null
+    }
+  ],
+  "schedule_without_model": [
+    {
+      "block_id": "E2|钢支撑",
+      "zone": "E2",
+      "category": "钢支撑",
+      "mesh_count": null,
+      "start_date": "2026-06-02",
+      "end_date": "2026-06-21",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E5|灌注桩",
+      "zone": "E5",
+      "category": "灌注桩",
+      "mesh_count": null,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-07",
+      "match_level": "exact"
+    }
+  ],
+  "matched_blocks": [
+    {
+      "block_id": "E10|咬合桩",
+      "zone": "E10",
+      "category": "咬合桩",
+      "mesh_count": 477,
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-29",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E10|灌注桩",
+      "zone": "E10",
+      "category": "灌注桩",
+      "mesh_count": 403,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-13",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E10|立柱桩",
+      "zone": "E10",
+      "category": "立柱桩",
+      "mesh_count": 170,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-13",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E10|管桩",
+      "zone": "E10",
+      "category": "管桩",
+      "mesh_count": 31,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-13",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E11|咬合桩",
+      "zone": "E11",
+      "category": "咬合桩",
+      "mesh_count": 392,
+      "start_date": "2026-05-05",
+      "end_date": "2026-06-13",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E11|灌注桩",
+      "zone": "E11",
+      "category": "灌注桩",
+      "mesh_count": 271,
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E11|立柱桩",
+      "zone": "E11",
+      "category": "立柱桩",
+      "mesh_count": 140,
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E11|管桩",
+      "zone": "E11",
+      "category": "管桩",
+      "mesh_count": 21,
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E12|咬合桩",
+      "zone": "E12",
+      "category": "咬合桩",
+      "mesh_count": 1595,
+      "start_date": "2026-05-05",
+      "end_date": "2026-06-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E12|灌注桩",
+      "zone": "E12",
+      "category": "灌注桩",
+      "mesh_count": 559,
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E12|立柱桩",
+      "zone": "E12",
+      "category": "立柱桩",
+      "mesh_count": 202,
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-20",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E13|灌注桩",
+      "zone": "E13",
+      "category": "灌注桩",
+      "mesh_count": 53,
+      "start_date": "2026-08-10",
+      "end_date": "2026-10-09",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E1|咬合桩",
+      "zone": "E1",
+      "category": "咬合桩",
+      "mesh_count": 113,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-21",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E1|管桩",
+      "zone": "E1",
+      "category": "管桩",
+      "mesh_count": 149,
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-09",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E1|钢支撑",
+      "zone": "E1",
+      "category": "钢支撑",
+      "mesh_count": 10,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-21",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E1|钢板桩",
+      "zone": "E1",
+      "category": "钢板桩",
+      "mesh_count": 499,
+      "start_date": "2026-04-08",
+      "end_date": "2026-05-07",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E2|管桩",
+      "zone": "E2",
+      "category": "管桩",
+      "mesh_count": 257,
+      "start_date": "2026-04-10",
+      "end_date": "2026-05-24",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E2|钢板桩",
+      "zone": "E2",
+      "category": "钢板桩",
+      "mesh_count": 802,
+      "start_date": "2026-05-08",
+      "end_date": "2026-06-16",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E3|咬合桩",
+      "zone": "E3",
+      "category": "咬合桩",
+      "mesh_count": 81,
+      "start_date": "2026-04-06",
+      "end_date": "2026-04-20",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E3|管桩",
+      "zone": "E3",
+      "category": "管桩",
+      "mesh_count": 268,
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-09",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E3|钢支撑",
+      "zone": "E3",
+      "category": "钢支撑",
+      "mesh_count": 6,
+      "start_date": "2026-05-06",
+      "end_date": "2026-06-04",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E3|钢板桩",
+      "zone": "E3",
+      "category": "钢板桩",
+      "mesh_count": 782,
+      "start_date": "2026-04-06",
+      "end_date": "2026-05-15",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E4|管桩",
+      "zone": "E4",
+      "category": "管桩",
+      "mesh_count": 604,
+      "start_date": "2026-04-10",
+      "end_date": "2026-05-19",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E4|钢支撑",
+      "zone": "E4",
+      "category": "钢支撑",
+      "mesh_count": 17,
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-24",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E4|钢板桩",
+      "zone": "E4",
+      "category": "钢板桩",
+      "mesh_count": 1149,
+      "start_date": "2026-05-16",
+      "end_date": "2026-06-14",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E5|管桩",
+      "zone": "E5",
+      "category": "管桩",
+      "mesh_count": 212,
+      "start_date": "2026-05-25",
+      "end_date": "2026-06-23",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E6|灌注桩",
+      "zone": "E6",
+      "category": "灌注桩",
+      "mesh_count": 13,
+      "start_date": "2026-06-08",
+      "end_date": "2026-07-09",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E6|管桩",
+      "zone": "E6",
+      "category": "管桩",
+      "mesh_count": 204,
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-29",
+      "match_level": "exact"
+    },
+    {
+      "block_id": "E7|咬合桩",
+      "zone": "E7",
+      "category": "咬合桩",
+      "mesh_count": 311,
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-24",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E7|灌注桩",
+      "zone": "E7",
+      "category": "灌注桩",
+      "mesh_count": 107,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-03",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E7|立柱桩",
+      "zone": "E7",
+      "category": "立柱桩",
+      "mesh_count": 82,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-03",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E7|管桩",
+      "zone": "E7",
+      "category": "管桩",
+      "mesh_count": 4,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-03",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E8|咬合桩",
+      "zone": "E8",
+      "category": "咬合桩",
+      "mesh_count": 104,
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-19",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E8|灌注桩",
+      "zone": "E8",
+      "category": "灌注桩",
+      "mesh_count": 183,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E8|立柱桩",
+      "zone": "E8",
+      "category": "立柱桩",
+      "mesh_count": 138,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E9|咬合桩",
+      "zone": "E9",
+      "category": "咬合桩",
+      "mesh_count": 219,
+      "start_date": "2026-03-16",
+      "end_date": "2026-04-19",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E9|灌注桩",
+      "zone": "E9",
+      "category": "灌注桩",
+      "mesh_count": 154,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E9|立柱桩",
+      "zone": "E9",
+      "category": "立柱桩",
+      "mesh_count": 82,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "E9|管桩",
+      "zone": "E9",
+      "category": "管桩",
+      "mesh_count": 7,
+      "start_date": "2026-03-25",
+      "end_date": "2026-05-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W1|咬合桩",
+      "zone": "W1",
+      "category": "咬合桩",
+      "mesh_count": 213,
+      "start_date": "2026-04-21",
+      "end_date": "2026-05-15",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W1|管桩",
+      "zone": "W1",
+      "category": "管桩",
+      "mesh_count": 200,
+      "start_date": "2026-03-14",
+      "end_date": "2026-04-12",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W1|钢板桩",
+      "zone": "W1",
+      "category": "钢板桩",
+      "mesh_count": 428,
+      "start_date": "2026-04-21",
+      "end_date": "2026-05-15",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W2|咬合桩",
+      "zone": "W2",
+      "category": "咬合桩",
+      "mesh_count": 296,
+      "start_date": "2026-05-21",
+      "end_date": "2026-06-14",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W2|灌注桩",
+      "zone": "W2",
+      "category": "灌注桩",
+      "mesh_count": 18,
+      "start_date": "2026-04-13",
+      "end_date": "2026-05-12",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W2|立柱桩",
+      "zone": "W2",
+      "category": "立柱桩",
+      "mesh_count": 24,
+      "start_date": "2026-04-13",
+      "end_date": "2026-05-12",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W2|管桩",
+      "zone": "W2",
+      "category": "管桩",
+      "mesh_count": 358,
+      "start_date": "2026-04-13",
+      "end_date": "2026-05-12",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W2|钢板桩",
+      "zone": "W2",
+      "category": "钢板桩",
+      "mesh_count": 768,
+      "start_date": "2026-05-21",
+      "end_date": "2026-06-14",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W3|咬合桩",
+      "zone": "W3",
+      "category": "咬合桩",
+      "mesh_count": 557,
+      "start_date": "2026-02-24",
+      "end_date": "2026-07-13",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W3|灌注桩",
+      "zone": "W3",
+      "category": "灌注桩",
+      "mesh_count": 160,
+      "start_date": "2026-03-14",
+      "end_date": "2026-09-02",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W3|立柱桩",
+      "zone": "W3",
+      "category": "立柱桩",
+      "mesh_count": 104,
+      "start_date": "2026-03-14",
+      "end_date": "2026-09-02",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W3|管桩",
+      "zone": "W3",
+      "category": "管桩",
+      "mesh_count": 277,
+      "start_date": "2026-03-14",
+      "end_date": "2026-09-02",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W3|钢板桩",
+      "zone": "W3",
+      "category": "钢板桩",
+      "mesh_count": 1027,
+      "start_date": "2026-02-24",
+      "end_date": "2026-07-13",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W4|咬合桩",
+      "zone": "W4",
+      "category": "咬合桩",
+      "mesh_count": 232,
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-16",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W4|灌注桩",
+      "zone": "W4",
+      "category": "灌注桩",
+      "mesh_count": 131,
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W4|立柱桩",
+      "zone": "W4",
+      "category": "立柱桩",
+      "mesh_count": 42,
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W4|管桩",
+      "zone": "W4",
+      "category": "管桩",
+      "mesh_count": 399,
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-08",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W4|钢板桩",
+      "zone": "W4",
+      "category": "钢板桩",
+      "mesh_count": 780,
+      "start_date": "2026-04-17",
+      "end_date": "2026-05-16",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W5|咬合桩",
+      "zone": "W5",
+      "category": "咬合桩",
+      "mesh_count": 65,
+      "start_date": "2026-05-12",
+      "end_date": "2026-06-10",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W5|灌注桩",
+      "zone": "W5",
+      "category": "灌注桩",
+      "mesh_count": 12,
+      "start_date": "2026-04-09",
+      "end_date": "2026-05-03",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W5|管桩",
+      "zone": "W5",
+      "category": "管桩",
+      "mesh_count": 402,
+      "start_date": "2026-04-09",
+      "end_date": "2026-05-03",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W5|钢板桩",
+      "zone": "W5",
+      "category": "钢板桩",
+      "mesh_count": 528,
+      "start_date": "2026-05-12",
+      "end_date": "2026-06-10",
+      "match_level": "coarse"
+    },
+    {
+      "block_id": "W6|管桩",
+      "zone": "W6",
+      "category": "管桩",
+      "mesh_count": 425,
+      "start_date": "2026-05-04",
+      "end_date": "2026-06-18",
+      "match_level": "coarse"
+    }
+  ],
+  "unassigned_meshes": [
+    {
+      "mesh_id": "mesh-5622-工字钢",
+      "element_id": null,
+      "name": "工字钢",
+      "node_index": 6201,
+      "zone": "unassigned",
+      "category": "钢围檩",
+      "block_id": "unassigned|钢围檩",
+      "center": [
+        -325.574,
+        -4.3,
+        175.276
+      ],
+      "bbox_min": [
+        -325.724,
+        -10.3,
+        174.926
+      ],
+      "bbox_max": [
+        -325.424,
+        1.7,
+        175.626
+      ]
+    },
+    {
+      "mesh_id": "mesh-5881-工字钢",
+      "element_id": null,
+      "name": "工字钢",
+      "node_index": 6719,
+      "zone": "unassigned",
+      "category": "钢围檩",
+      "block_id": "unassigned|钢围檩",
+      "center": [
+        -170.174,
+        -4.3,
+        175.277
+      ],
+      "bbox_min": [
+        -170.324,
+        -10.3,
+        174.927
+      ],
+      "bbox_max": [
+        -170.024,
+        1.7,
+        175.627
+      ]
+    },
+    {
+      "mesh_id": "5406273",
+      "element_id": "5406273",
+      "name": "荤桩",
+      "node_index": 10881,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        226.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        226.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        227.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406274",
+      "element_id": "5406274",
+      "name": "荤桩",
+      "node_index": 10882,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        225.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        224.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        225.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406275",
+      "element_id": "5406275",
+      "name": "荤桩",
+      "node_index": 10883,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        223.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        223.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        224.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406276",
+      "element_id": "5406276",
+      "name": "荤桩",
+      "node_index": 10884,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        222.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        221.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        222.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406277",
+      "element_id": "5406277",
+      "name": "荤桩",
+      "node_index": 10885,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        220.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        220.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        221.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406278",
+      "element_id": "5406278",
+      "name": "荤桩",
+      "node_index": 10886,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        219.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        218.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        219.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406279",
+      "element_id": "5406279",
+      "name": "荤桩",
+      "node_index": 10887,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        217.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        217.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        218.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406280",
+      "element_id": "5406280",
+      "name": "荤桩",
+      "node_index": 10888,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        216.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        215.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        216.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406281",
+      "element_id": "5406281",
+      "name": "荤桩",
+      "node_index": 10889,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        214.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        214.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        215.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406282",
+      "element_id": "5406282",
+      "name": "荤桩",
+      "node_index": 10890,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        213.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        212.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        213.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406283",
+      "element_id": "5406283",
+      "name": "荤桩",
+      "node_index": 10891,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        211.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        211.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        212.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406284",
+      "element_id": "5406284",
+      "name": "荤桩",
+      "node_index": 10892,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        210.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        209.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        210.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406285",
+      "element_id": "5406285",
+      "name": "荤桩",
+      "node_index": 10893,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        208.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        208.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        209.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406286",
+      "element_id": "5406286",
+      "name": "荤桩",
+      "node_index": 10894,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        207.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        206.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        207.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406287",
+      "element_id": "5406287",
+      "name": "荤桩",
+      "node_index": 10895,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        205.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        205.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        206.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406288",
+      "element_id": "5406288",
+      "name": "荤桩",
+      "node_index": 10896,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        204.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        203.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        204.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406289",
+      "element_id": "5406289",
+      "name": "荤桩",
+      "node_index": 10897,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        202.805,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        202.305,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        203.305,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5406290",
+      "element_id": "5406290",
+      "name": "荤桩",
+      "node_index": 10898,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        201.305,
+        -13.36,
+        -120.55
+      ],
+      "bbox_min": [
+        200.805,
+        -20.46,
+        -121.05
+      ],
+      "bbox_max": [
+        201.805,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5407609",
+      "element_id": "5407609",
+      "name": "荤桩",
+      "node_index": 11557,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        227.643,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        227.043,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        228.243,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407610",
+      "element_id": "5407610",
+      "name": "荤桩",
+      "node_index": 11558,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        225.843,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        225.243,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        226.443,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407611",
+      "element_id": "5407611",
+      "name": "荤桩",
+      "node_index": 11559,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        224.043,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        223.443,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        224.643,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407612",
+      "element_id": "5407612",
+      "name": "荤桩",
+      "node_index": 11560,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        222.243,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        221.643,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        222.843,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407613",
+      "element_id": "5407613",
+      "name": "荤桩",
+      "node_index": 11561,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        220.443,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        219.843,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        221.043,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407614",
+      "element_id": "5407614",
+      "name": "荤桩",
+      "node_index": 11562,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        218.643,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        218.043,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        219.243,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407615",
+      "element_id": "5407615",
+      "name": "荤桩",
+      "node_index": 11563,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        216.843,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        216.243,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        217.443,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407616",
+      "element_id": "5407616",
+      "name": "荤桩",
+      "node_index": 11564,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        215.043,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        214.443,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        215.643,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407617",
+      "element_id": "5407617",
+      "name": "荤桩",
+      "node_index": 11565,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        213.243,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        212.643,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        213.843,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407618",
+      "element_id": "5407618",
+      "name": "荤桩",
+      "node_index": 11566,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        211.443,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        210.843,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        212.043,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407619",
+      "element_id": "5407619",
+      "name": "荤桩",
+      "node_index": 11567,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        209.643,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        209.043,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        210.243,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407620",
+      "element_id": "5407620",
+      "name": "荤桩",
+      "node_index": 11568,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        207.843,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        207.243,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        208.443,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407621",
+      "element_id": "5407621",
+      "name": "荤桩",
+      "node_index": 11569,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        206.043,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        205.443,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        206.643,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407622",
+      "element_id": "5407622",
+      "name": "荤桩",
+      "node_index": 11570,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        204.243,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        203.643,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        204.843,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5407623",
+      "element_id": "5407623",
+      "name": "荤桩",
+      "node_index": 11571,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        202.443,
+        -5.3,
+        -130.75
+      ],
+      "bbox_min": [
+        201.843,
+        -13.8,
+        -131.35
+      ],
+      "bbox_max": [
+        203.043,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5408034",
+      "element_id": "5408034",
+      "name": "素桩",
+      "node_index": 11762,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        227.617,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        227.18,
+        -16.46,
+        -121.049
+      ],
+      "bbox_max": [
+        228.055,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408035",
+      "element_id": "5408035",
+      "name": "素桩",
+      "node_index": 11763,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        226.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        225.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        226.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408036",
+      "element_id": "5408036",
+      "name": "素桩",
+      "node_index": 11764,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        224.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        224.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        224.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408037",
+      "element_id": "5408037",
+      "name": "素桩",
+      "node_index": 11765,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        223.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        222.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        223.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408038",
+      "element_id": "5408038",
+      "name": "素桩",
+      "node_index": 11766,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        221.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        221.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        221.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408039",
+      "element_id": "5408039",
+      "name": "素桩",
+      "node_index": 11767,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        220.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        219.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        220.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408040",
+      "element_id": "5408040",
+      "name": "素桩",
+      "node_index": 11768,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        218.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        218.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        218.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408041",
+      "element_id": "5408041",
+      "name": "素桩",
+      "node_index": 11769,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        217.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        216.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        217.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408042",
+      "element_id": "5408042",
+      "name": "素桩",
+      "node_index": 11770,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        215.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        215.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        215.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408043",
+      "element_id": "5408043",
+      "name": "素桩",
+      "node_index": 11771,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        214.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        213.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        214.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408044",
+      "element_id": "5408044",
+      "name": "素桩",
+      "node_index": 11772,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        212.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        212.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        212.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408045",
+      "element_id": "5408045",
+      "name": "素桩",
+      "node_index": 11773,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        211.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        210.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        211.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408046",
+      "element_id": "5408046",
+      "name": "素桩",
+      "node_index": 11774,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        209.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        209.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        209.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408047",
+      "element_id": "5408047",
+      "name": "素桩",
+      "node_index": 11775,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        208.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        207.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        208.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408048",
+      "element_id": "5408048",
+      "name": "素桩",
+      "node_index": 11776,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        206.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        206.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        206.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408049",
+      "element_id": "5408049",
+      "name": "素桩",
+      "node_index": 11777,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        205.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        204.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        205.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408050",
+      "element_id": "5408050",
+      "name": "素桩",
+      "node_index": 11778,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        203.555,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        203.18,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        203.93,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "5408051",
+      "element_id": "5408051",
+      "name": "素桩",
+      "node_index": 11779,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        202.055,
+        -11.36,
+        -120.55
+      ],
+      "bbox_min": [
+        201.68,
+        -16.46,
+        -121.05
+      ],
+      "bbox_max": [
+        202.43,
+        -6.26,
+        -120.05
+      ]
+    },
+    {
+      "mesh_id": "mesh-10635-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12098,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        211.818,
+        -11.135,
+        -87.772
+      ],
+      "bbox_min": [
+        211.504,
+        -16.61,
+        -88.086
+      ],
+      "bbox_max": [
+        212.132,
+        -5.66,
+        -87.458
+      ]
+    },
+    {
+      "mesh_id": "mesh-10638-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12104,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        211.919,
+        -11.135,
+        -95.634
+      ],
+      "bbox_min": [
+        211.605,
+        -16.61,
+        -95.948
+      ],
+      "bbox_max": [
+        212.233,
+        -5.66,
+        -95.32
+      ]
+    },
+    {
+      "mesh_id": "mesh-10639-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12106,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        215.919,
+        -11.135,
+        -99.634
+      ],
+      "bbox_min": [
+        215.605,
+        -16.61,
+        -99.948
+      ],
+      "bbox_max": [
+        216.233,
+        -5.66,
+        -99.32
+      ]
+    },
+    {
+      "mesh_id": "mesh-10640-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12108,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        219.919,
+        -11.135,
+        -103.634
+      ],
+      "bbox_min": [
+        219.605,
+        -16.61,
+        -103.948
+      ],
+      "bbox_max": [
+        220.233,
+        -5.66,
+        -103.32
+      ]
+    },
+    {
+      "mesh_id": "mesh-10642-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12112,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        205.312,
+        -11.135,
+        -110.24
+      ],
+      "bbox_min": [
+        204.998,
+        -16.61,
+        -110.554
+      ],
+      "bbox_max": [
+        205.626,
+        -5.66,
+        -109.926
+      ]
+    },
+    {
+      "mesh_id": "mesh-10643-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12114,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        209.312,
+        -11.135,
+        -114.24
+      ],
+      "bbox_min": [
+        208.998,
+        -16.61,
+        -114.554
+      ],
+      "bbox_max": [
+        209.626,
+        -5.66,
+        -113.926
+      ]
+    },
+    {
+      "mesh_id": "mesh-10680-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12188,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        223.168,
+        -6.305,
+        -67.046
+      ],
+      "bbox_min": [
+        222.854,
+        -16.61,
+        -67.36
+      ],
+      "bbox_max": [
+        223.482,
+        4.0,
+        -66.732
+      ]
+    },
+    {
+      "mesh_id": "mesh-10681-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12190,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        220.181,
+        -6.305,
+        -87.371
+      ],
+      "bbox_min": [
+        219.867,
+        -16.61,
+        -87.685
+      ],
+      "bbox_max": [
+        220.495,
+        4.0,
+        -87.057
+      ]
+    },
+    {
+      "mesh_id": "mesh-10682-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12192,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        224.415,
+        -6.305,
+        -83.137
+      ],
+      "bbox_min": [
+        224.101,
+        -16.61,
+        -83.451
+      ],
+      "bbox_max": [
+        224.729,
+        4.0,
+        -82.823
+      ]
+    },
+    {
+      "mesh_id": "mesh-10683-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12194,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        219.053,
+        -6.305,
+        -71.606
+      ],
+      "bbox_min": [
+        218.739,
+        -16.61,
+        -71.92
+      ],
+      "bbox_max": [
+        219.367,
+        4.0,
+        -71.292
+      ]
+    },
+    {
+      "mesh_id": "mesh-10684-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12196,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        211.717,
+        -6.305,
+        -79.843
+      ],
+      "bbox_min": [
+        211.403,
+        -16.61,
+        -80.157
+      ],
+      "bbox_max": [
+        212.031,
+        4.0,
+        -79.529
+      ]
+    },
+    {
+      "mesh_id": "mesh-10685-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12198,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        215.69,
+        -6.305,
+        -75.376
+      ],
+      "bbox_min": [
+        215.376,
+        -16.61,
+        -75.69
+      ],
+      "bbox_max": [
+        216.004,
+        4.0,
+        -75.062
+      ]
+    },
+    {
+      "mesh_id": "mesh-10686-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12200,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        206.703,
+        -6.305,
+        -67.383
+      ],
+      "bbox_min": [
+        206.389,
+        -16.61,
+        -67.697
+      ],
+      "bbox_max": [
+        207.017,
+        4.0,
+        -67.069
+      ]
+    },
+    {
+      "mesh_id": "mesh-10687-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 12202,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        202.73,
+        -6.305,
+        -71.85
+      ],
+      "bbox_min": [
+        202.416,
+        -16.61,
+        -72.164
+      ],
+      "bbox_max": [
+        203.044,
+        4.0,
+        -71.536
+      ]
+    },
+    {
+      "mesh_id": "5409116",
+      "element_id": "5409116",
+      "name": "素桩",
+      "node_index": 12349,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        226.743,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        226.293,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        227.193,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409117",
+      "element_id": "5409117",
+      "name": "素桩",
+      "node_index": 12350,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        224.943,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        224.493,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        225.393,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409118",
+      "element_id": "5409118",
+      "name": "素桩",
+      "node_index": 12351,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        223.143,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        222.693,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        223.593,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409119",
+      "element_id": "5409119",
+      "name": "素桩",
+      "node_index": 12352,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        221.343,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        220.893,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        221.793,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409120",
+      "element_id": "5409120",
+      "name": "素桩",
+      "node_index": 12353,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        219.543,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        219.093,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        219.993,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409121",
+      "element_id": "5409121",
+      "name": "素桩",
+      "node_index": 12354,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        217.743,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        217.293,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        218.193,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409122",
+      "element_id": "5409122",
+      "name": "素桩",
+      "node_index": 12355,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        215.943,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        215.493,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        216.393,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409123",
+      "element_id": "5409123",
+      "name": "素桩",
+      "node_index": 12356,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        214.143,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        213.693,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        214.593,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409124",
+      "element_id": "5409124",
+      "name": "素桩",
+      "node_index": 12357,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        212.343,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        211.893,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        212.793,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409125",
+      "element_id": "5409125",
+      "name": "素桩",
+      "node_index": 12358,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        210.543,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        210.093,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        210.993,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409126",
+      "element_id": "5409126",
+      "name": "素桩",
+      "node_index": 12359,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        208.743,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        208.293,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        209.193,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409127",
+      "element_id": "5409127",
+      "name": "素桩",
+      "node_index": 12360,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        206.943,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        206.493,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        207.393,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409128",
+      "element_id": "5409128",
+      "name": "素桩",
+      "node_index": 12361,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        205.143,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        204.693,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        205.593,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409129",
+      "element_id": "5409129",
+      "name": "素桩",
+      "node_index": 12362,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        203.343,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        202.893,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        203.793,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409130",
+      "element_id": "5409130",
+      "name": "素桩",
+      "node_index": 12363,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        201.533,
+        -4.3,
+        -130.75
+      ],
+      "bbox_min": [
+        201.074,
+        -11.8,
+        -131.35
+      ],
+      "bbox_max": [
+        201.993,
+        3.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5409637",
+      "element_id": "5409637",
+      "name": "素桩",
+      "node_index": 12823,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.507,
+        -7.3,
+        -130.105
+      ],
+      "bbox_min": [
+        227.757,
+        -17.8,
+        -130.855
+      ],
+      "bbox_max": [
+        229.257,
+        3.2,
+        -129.355
+      ]
+    },
+    {
+      "mesh_id": "5409638",
+      "element_id": "5409638",
+      "name": "素桩",
+      "node_index": 12824,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -7.3,
+        -127.905
+      ],
+      "bbox_min": [
+        227.9,
+        -17.8,
+        -128.655
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -127.155
+      ]
+    },
+    {
+      "mesh_id": "5409639",
+      "element_id": "5409639",
+      "name": "素桩",
+      "node_index": 12825,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -7.3,
+        -125.705
+      ],
+      "bbox_min": [
+        227.9,
+        -17.8,
+        -126.455
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -124.955
+      ]
+    },
+    {
+      "mesh_id": "5409640",
+      "element_id": "5409640",
+      "name": "素桩",
+      "node_index": 12826,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -7.3,
+        -123.505
+      ],
+      "bbox_min": [
+        227.9,
+        -17.8,
+        -124.255
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -122.755
+      ]
+    },
+    {
+      "mesh_id": "5409641",
+      "element_id": "5409641",
+      "name": "素桩",
+      "node_index": 12827,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -7.3,
+        -121.305
+      ],
+      "bbox_min": [
+        227.9,
+        -17.8,
+        -122.055
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -120.555
+      ]
+    },
+    {
+      "mesh_id": "5409642",
+      "element_id": "5409642",
+      "name": "素桩",
+      "node_index": 12828,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -7.3,
+        -119.105
+      ],
+      "bbox_min": [
+        227.9,
+        -17.8,
+        -119.855
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -118.355
+      ]
+    },
+    {
+      "mesh_id": "5409643",
+      "element_id": "5409643",
+      "name": "素桩",
+      "node_index": 12829,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.649,
+        -7.3,
+        -66.105
+      ],
+      "bbox_min": [
+        227.899,
+        -17.8,
+        -66.855
+      ],
+      "bbox_max": [
+        229.399,
+        3.2,
+        -65.355
+      ]
+    },
+    {
+      "mesh_id": "5410527",
+      "element_id": "5410527",
+      "name": "荤桩",
+      "node_index": 13260,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -9.3,
+        -129.005
+      ],
+      "bbox_min": [
+        227.9,
+        -21.8,
+        -129.755
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -128.255
+      ]
+    },
+    {
+      "mesh_id": "5410528",
+      "element_id": "5410528",
+      "name": "荤桩",
+      "node_index": 13261,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -9.3,
+        -126.805
+      ],
+      "bbox_min": [
+        227.9,
+        -21.8,
+        -127.555
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -126.055
+      ]
+    },
+    {
+      "mesh_id": "5410529",
+      "element_id": "5410529",
+      "name": "荤桩",
+      "node_index": 13262,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -9.3,
+        -124.605
+      ],
+      "bbox_min": [
+        227.9,
+        -21.8,
+        -125.355
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -123.855
+      ]
+    },
+    {
+      "mesh_id": "5410530",
+      "element_id": "5410530",
+      "name": "荤桩",
+      "node_index": 13263,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -9.3,
+        -122.405
+      ],
+      "bbox_min": [
+        227.9,
+        -21.8,
+        -123.155
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -121.655
+      ]
+    },
+    {
+      "mesh_id": "5410531",
+      "element_id": "5410531",
+      "name": "荤桩",
+      "node_index": 13264,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -9.3,
+        -120.205
+      ],
+      "bbox_min": [
+        227.9,
+        -21.8,
+        -120.955
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -119.455
+      ]
+    },
+    {
+      "mesh_id": "5410532",
+      "element_id": "5410532",
+      "name": "荤桩",
+      "node_index": 13265,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.65,
+        -9.3,
+        -118.005
+      ],
+      "bbox_min": [
+        227.9,
+        -21.8,
+        -118.755
+      ],
+      "bbox_max": [
+        229.4,
+        3.2,
+        -117.255
+      ]
+    },
+    {
+      "mesh_id": "5410533",
+      "element_id": "5410533",
+      "name": "荤桩",
+      "node_index": 13266,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.412,
+        -9.3,
+        -65.031
+      ],
+      "bbox_min": [
+        227.662,
+        -21.8,
+        -65.781
+      ],
+      "bbox_max": [
+        229.162,
+        3.2,
+        -64.281
+      ]
+    },
+    {
+      "mesh_id": "5410534",
+      "element_id": "5410534",
+      "name": "荤桩",
+      "node_index": 13267,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.649,
+        -9.3,
+        -67.205
+      ],
+      "bbox_min": [
+        227.899,
+        -21.8,
+        -67.955
+      ],
+      "bbox_max": [
+        229.399,
+        3.2,
+        -66.455
+      ]
+    },
+    {
+      "mesh_id": "5412393",
+      "element_id": "5412393",
+      "name": "旋喷桩",
+      "node_index": 13887,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        227.516,
+        -7.3,
+        -63.739
+      ],
+      "bbox_min": [
+        227.116,
+        -17.8,
+        -64.139
+      ],
+      "bbox_max": [
+        227.916,
+        3.2,
+        -63.339
+      ]
+    },
+    {
+      "mesh_id": "5412394",
+      "element_id": "5412394",
+      "name": "旋喷桩",
+      "node_index": 13888,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        227.815,
+        -7.3,
+        -64.299
+      ],
+      "bbox_min": [
+        227.415,
+        -17.8,
+        -64.693
+      ],
+      "bbox_max": [
+        228.215,
+        3.2,
+        -63.905
+      ]
+    },
+    {
+      "mesh_id": "5412395",
+      "element_id": "5412395",
+      "name": "旋喷桩",
+      "node_index": 13889,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        227.231,
+        -7.3,
+        -64.346
+      ],
+      "bbox_min": [
+        226.888,
+        -17.8,
+        -64.738
+      ],
+      "bbox_max": [
+        227.573,
+        3.2,
+        -63.953
+      ]
+    },
+    {
+      "mesh_id": "5412396",
+      "element_id": "5412396",
+      "name": "旋喷桩",
+      "node_index": 13890,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.939,
+        -7.3,
+        -68.153
+      ],
+      "bbox_min": [
+        228.539,
+        -17.8,
+        -68.528
+      ],
+      "bbox_max": [
+        229.339,
+        3.2,
+        -67.778
+      ]
+    },
+    {
+      "mesh_id": "5412397",
+      "element_id": "5412397",
+      "name": "旋喷桩",
+      "node_index": 13891,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.354,
+        -7.3,
+        -68.192
+      ],
+      "bbox_min": [
+        228.012,
+        -17.8,
+        -68.566
+      ],
+      "bbox_max": [
+        228.697,
+        3.2,
+        -67.817
+      ]
+    },
+    {
+      "mesh_id": "5412398",
+      "element_id": "5412398",
+      "name": "旋喷桩",
+      "node_index": 13892,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.939,
+        -7.3,
+        -117.094
+      ],
+      "bbox_min": [
+        228.539,
+        -17.8,
+        -117.459
+      ],
+      "bbox_max": [
+        229.339,
+        3.2,
+        -116.728
+      ]
+    },
+    {
+      "mesh_id": "5412399",
+      "element_id": "5412399",
+      "name": "旋喷桩",
+      "node_index": 13893,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        228.333,
+        -7.3,
+        -117.112
+      ],
+      "bbox_min": [
+        228.012,
+        -17.8,
+        -117.457
+      ],
+      "bbox_max": [
+        228.654,
+        3.2,
+        -116.766
+      ]
+    },
+    {
+      "mesh_id": "mesh-12713-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 14344,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        213.312,
+        -6.305,
+        -118.241
+      ],
+      "bbox_min": [
+        212.998,
+        -16.61,
+        -118.555
+      ],
+      "bbox_max": [
+        213.626,
+        4.0,
+        -117.927
+      ]
+    },
+    {
+      "mesh_id": "mesh-12714-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 14346,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        223.919,
+        -6.305,
+        -107.634
+      ],
+      "bbox_min": [
+        223.605,
+        -16.61,
+        -107.948
+      ],
+      "bbox_max": [
+        224.233,
+        4.0,
+        -107.32
+      ]
+    },
+    {
+      "mesh_id": "mesh-12730-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 14378,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        222.726,
+        -2.23,
+        -124.826
+      ],
+      "bbox_min": [
+        222.412,
+        -8.46,
+        -125.14
+      ],
+      "bbox_max": [
+        223.04,
+        4.0,
+        -124.512
+      ]
+    },
+    {
+      "mesh_id": "mesh-12731-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 14380,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        217.312,
+        -2.23,
+        -122.241
+      ],
+      "bbox_min": [
+        216.998,
+        -8.46,
+        -122.555
+      ],
+      "bbox_max": [
+        217.626,
+        4.0,
+        -121.927
+      ]
+    },
+    {
+      "mesh_id": "mesh-12732-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 14382,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        207.779,
+        -2.23,
+        -123.776
+      ],
+      "bbox_min": [
+        207.465,
+        -8.46,
+        -124.09
+      ],
+      "bbox_max": [
+        208.093,
+        4.0,
+        -123.462
+      ]
+    },
+    {
+      "mesh_id": "5413953",
+      "element_id": "5413953",
+      "name": "1500x1000 2",
+      "node_index": 14971,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        228.65,
+        3.7,
+        -123.993
+      ],
+      "bbox_min": [
+        227.9,
+        3.2,
+        -131.35
+      ],
+      "bbox_max": [
+        229.4,
+        4.2,
+        -116.637
+      ]
+    },
+    {
+      "mesh_id": "5413957",
+      "element_id": "5413957",
+      "name": "1200x1000 2",
+      "node_index": 14973,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        214.65,
+        3.7,
+        -130.75
+      ],
+      "bbox_min": [
+        201.4,
+        3.2,
+        -131.35
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -130.15
+      ]
+    },
+    {
+      "mesh_id": "5414223",
+      "element_id": "5414223",
+      "name": "1000x800 2",
+      "node_index": 15099,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        204.323,
+        -5.86,
+        -62.829
+      ],
+      "bbox_min": [
+        203.723,
+        -6.26,
+        -64.059
+      ],
+      "bbox_max": [
+        204.924,
+        -5.46,
+        -61.6
+      ]
+    },
+    {
+      "mesh_id": "5414225",
+      "element_id": "5414225",
+      "name": "1000x800 2",
+      "node_index": 15100,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        215.379,
+        -5.86,
+        -64.47
+      ],
+      "bbox_min": [
+        204.719,
+        -6.26,
+        -65.878
+      ],
+      "bbox_max": [
+        226.039,
+        -5.46,
+        -63.062
+      ]
+    },
+    {
+      "mesh_id": "5414227",
+      "element_id": "5414227",
+      "name": "1000x800 2",
+      "node_index": 15101,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        226.247,
+        -5.86,
+        -65.579
+      ],
+      "bbox_min": [
+        225.794,
+        -6.26,
+        -66.263
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -64.895
+      ]
+    },
+    {
+      "mesh_id": "5414229",
+      "element_id": "5414229",
+      "name": "1200x800 2",
+      "node_index": 15102,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        227.299,
+        -5.86,
+        -93.113
+      ],
+      "bbox_min": [
+        226.699,
+        -6.26,
+        -121.05
+      ],
+      "bbox_max": [
+        227.899,
+        -5.46,
+        -65.176
+      ]
+    },
+    {
+      "mesh_id": "5414231",
+      "element_id": "5414231",
+      "name": "800x800 2",
+      "node_index": 15103,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        224.818,
+        -5.86,
+        -118.168
+      ],
+      "bbox_min": [
+        222.937,
+        -6.26,
+        -120.05
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -116.287
+      ]
+    },
+    {
+      "mesh_id": "5414233",
+      "element_id": "5414233",
+      "name": "800x800 2",
+      "node_index": 15104,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        222.818,
+        -5.86,
+        -116.168
+      ],
+      "bbox_min": [
+        218.937,
+        -6.26,
+        -120.05
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -112.287
+      ]
+    },
+    {
+      "mesh_id": "5414235",
+      "element_id": "5414235",
+      "name": "800x800 2",
+      "node_index": 15105,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        218.818,
+        -5.86,
+        -112.168
+      ],
+      "bbox_min": [
+        210.937,
+        -6.26,
+        -120.05
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -104.287
+      ]
+    },
+    {
+      "mesh_id": "5414237",
+      "element_id": "5414237",
+      "name": "800x800 2",
+      "node_index": 15106,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        207.3,
+        -5.86,
+        -112.229
+      ],
+      "bbox_min": [
+        201.329,
+        -6.26,
+        -118.2
+      ],
+      "bbox_max": [
+        213.271,
+        -5.46,
+        -106.258
+      ]
+    },
+    {
+      "mesh_id": "5414239",
+      "element_id": "5414239",
+      "name": "800x800 2",
+      "node_index": 15107,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        214.818,
+        -5.86,
+        -108.168
+      ],
+      "bbox_min": [
+        202.938,
+        -6.26,
+        -120.05
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -96.287
+      ]
+    },
+    {
+      "mesh_id": "5414241",
+      "element_id": "5414241",
+      "name": "800x800 2",
+      "node_index": 15108,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        217.918,
+        -5.86,
+        -101.634
+      ],
+      "bbox_min": [
+        211.959,
+        -6.26,
+        -107.593
+      ],
+      "bbox_max": [
+        223.878,
+        -5.46,
+        -95.674
+      ]
+    },
+    {
+      "mesh_id": "5414243",
+      "element_id": "5414243",
+      "name": "800x800 2",
+      "node_index": 15109,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        210.818,
+        -5.86,
+        -104.168
+      ],
+      "bbox_min": [
+        194.938,
+        -6.26,
+        -120.05
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -88.287
+      ]
+    },
+    {
+      "mesh_id": "5414245",
+      "element_id": "5414245",
+      "name": "800x800 2",
+      "node_index": 15110,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        206.819,
+        -5.86,
+        -100.168
+      ],
+      "bbox_min": [
+        186.938,
+        -6.26,
+        -120.05
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -80.287
+      ]
+    },
+    {
+      "mesh_id": "5414247",
+      "element_id": "5414247",
+      "name": "800x800 2",
+      "node_index": 15111,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        207.936,
+        -5.86,
+        -77.015
+      ],
+      "bbox_min": [
+        189.173,
+        -6.26,
+        -93.704
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -60.327
+      ]
+    },
+    {
+      "mesh_id": "5414249",
+      "element_id": "5414249",
+      "name": "800x800 2",
+      "node_index": 15112,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        215.906,
+        -5.86,
+        -87.568
+      ],
+      "bbox_min": [
+        212.213,
+        -6.26,
+        -88.121
+      ],
+      "bbox_max": [
+        219.599,
+        -5.46,
+        -87.015
+      ]
+    },
+    {
+      "mesh_id": "5414251",
+      "element_id": "5414251",
+      "name": "800x800 2",
+      "node_index": 15113,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        211.814,
+        -5.86,
+        -87.742
+      ],
+      "bbox_min": [
+        211.321,
+        -6.26,
+        -95.308
+      ],
+      "bbox_max": [
+        212.307,
+        -5.46,
+        -80.177
+      ]
+    },
+    {
+      "mesh_id": "5414253",
+      "element_id": "5414253",
+      "name": "800x800 2",
+      "node_index": 15114,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        212.917,
+        -5.86,
+        -73.445
+      ],
+      "bbox_min": [
+        199.134,
+        -6.26,
+        -85.704
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -61.187
+      ]
+    },
+    {
+      "mesh_id": "5414255",
+      "element_id": "5414255",
+      "name": "800x800 2",
+      "node_index": 15115,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        219.385,
+        -5.86,
+        -71.199
+      ],
+      "bbox_min": [
+        212.071,
+        -6.26,
+        -77.704
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -64.693
+      ]
+    },
+    {
+      "mesh_id": "5414257",
+      "element_id": "5414257",
+      "name": "800x800 2",
+      "node_index": 15116,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        217.695,
+        -5.86,
+        -73.122
+      ],
+      "bbox_min": [
+        211.722,
+        -6.26,
+        -79.768
+      ],
+      "bbox_max": [
+        223.668,
+        -5.46,
+        -66.476
+      ]
+    },
+    {
+      "mesh_id": "5414259",
+      "element_id": "5414259",
+      "name": "800x800 2",
+      "node_index": 15117,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        224.366,
+        -5.86,
+        -67.629
+      ],
+      "bbox_min": [
+        222.033,
+        -6.26,
+        -69.704
+      ],
+      "bbox_max": [
+        226.699,
+        -5.46,
+        -65.553
+      ]
+    },
+    {
+      "mesh_id": "5414261",
+      "element_id": "5414261",
+      "name": "800x800 2",
+      "node_index": 15118,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        206.27,
+        -5.86,
+        -68.093
+      ],
+      "bbox_min": [
+        202.735,
+        -6.26,
+        -71.775
+      ],
+      "bbox_max": [
+        209.805,
+        -5.46,
+        -64.412
+      ]
+    },
+    {
+      "mesh_id": "5414507",
+      "element_id": "5414507",
+      "name": "1000x1000 2",
+      "node_index": 15238,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        -323.518,
+        3.625,
+        -68.533
+      ],
+      "bbox_min": [
+        -326.539,
+        3.2,
+        -69.3
+      ],
+      "bbox_max": [
+        -320.496,
+        4.05,
+        -67.765
+      ]
+    },
+    {
+      "mesh_id": "5415185",
+      "element_id": "5415185",
+      "name": "1000x1000 2",
+      "node_index": 15575,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        214.298,
+        3.7,
+        -116.548
+      ],
+      "bbox_min": [
+        200.696,
+        3.2,
+        -130.15
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -102.946
+      ]
+    },
+    {
+      "mesh_id": "5415187",
+      "element_id": "5415187",
+      "name": "1000x1000 2",
+      "node_index": 15576,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        207.23,
+        3.7,
+        -128.114
+      ],
+      "bbox_min": [
+        205.463,
+        3.2,
+        -130.15
+      ],
+      "bbox_max": [
+        208.996,
+        4.2,
+        -126.078
+      ]
+    },
+    {
+      "mesh_id": "5415189",
+      "element_id": "5415189",
+      "name": "1000x1000 2",
+      "node_index": 15577,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        218.387,
+        3.7,
+        -120.548
+      ],
+      "bbox_min": [
+        208.874,
+        3.2,
+        -130.15
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -110.946
+      ]
+    },
+    {
+      "mesh_id": "5415191",
+      "element_id": "5415191",
+      "name": "1000x1000 2",
+      "node_index": 15578,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        217.312,
+        3.7,
+        -122.241
+      ],
+      "bbox_min": [
+        213.312,
+        3.2,
+        -126.241
+      ],
+      "bbox_max": [
+        221.312,
+        4.2,
+        -118.241
+      ]
+    },
+    {
+      "mesh_id": "5415193",
+      "element_id": "5415193",
+      "name": "1000x1000 2",
+      "node_index": 15579,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        222.298,
+        3.7,
+        -124.548
+      ],
+      "bbox_min": [
+        216.696,
+        3.2,
+        -130.15
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -118.946
+      ]
+    },
+    {
+      "mesh_id": "5415195",
+      "element_id": "5415195",
+      "name": "1000x1000 2",
+      "node_index": 15580,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        226.298,
+        3.7,
+        -128.548
+      ],
+      "bbox_min": [
+        224.696,
+        3.2,
+        -130.15
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -126.946
+      ]
+    },
+    {
+      "mesh_id": "5415197",
+      "element_id": "5415197",
+      "name": "1000x1000 2",
+      "node_index": 15581,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        225.952,
+        3.7,
+        -109.268
+      ],
+      "bbox_min": [
+        224.005,
+        3.2,
+        -110.973
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -107.563
+      ]
+    },
+    {
+      "mesh_id": "5415199",
+      "element_id": "5415199",
+      "name": "1000x1000 2",
+      "node_index": 15582,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        207.83,
+        3.7,
+        -76.433
+      ],
+      "bbox_min": [
+        187.76,
+        3.2,
+        -94.905
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -57.961
+      ]
+    },
+    {
+      "mesh_id": "5415201",
+      "element_id": "5415201",
+      "name": "1000x1000 2",
+      "node_index": 15583,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        224.03,
+        3.7,
+        -83.148
+      ],
+      "bbox_min": [
+        220.161,
+        3.2,
+        -87.35
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -78.946
+      ]
+    },
+    {
+      "mesh_id": "5415203",
+      "element_id": "5415203",
+      "name": "1000x1000 2",
+      "node_index": 15584,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        212.466,
+        3.7,
+        -72.829
+      ],
+      "bbox_min": [
+        197.032,
+        3.2,
+        -86.905
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -58.753
+      ]
+    },
+    {
+      "mesh_id": "5415205",
+      "element_id": "5415205",
+      "name": "1000x1000 2",
+      "node_index": 15585,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        217.676,
+        3.625,
+        -73.143
+      ],
+      "bbox_min": [
+        211.676,
+        3.2,
+        -79.802
+      ],
+      "bbox_max": [
+        223.677,
+        4.05,
+        -66.485
+      ]
+    },
+    {
+      "mesh_id": "5415207",
+      "element_id": "5415207",
+      "name": "1000x1000 2",
+      "node_index": 15586,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        223.442,
+        3.7,
+        -66.94
+      ],
+      "bbox_min": [
+        218.984,
+        3.2,
+        -70.905
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -62.975
+      ]
+    },
+    {
+      "mesh_id": "5415209",
+      "element_id": "5415209",
+      "name": "1000x1000 2",
+      "node_index": 15587,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        218.461,
+        3.7,
+        -70.51
+      ],
+      "bbox_min": [
+        209.022,
+        3.2,
+        -78.905
+      ],
+      "bbox_max": [
+        227.9,
+        4.2,
+        -62.115
+      ]
+    },
+    {
+      "mesh_id": "5415211",
+      "element_id": "5415211",
+      "name": "1000x1000 2",
+      "node_index": 15588,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        207.265,
+        3.7,
+        -67.034
+      ],
+      "bbox_min": [
+        202.689,
+        3.2,
+        -71.809
+      ],
+      "bbox_max": [
+        211.841,
+        4.2,
+        -62.259
+      ]
+    },
+    {
+      "mesh_id": "5415217",
+      "element_id": "5415217",
+      "name": "1200x1000 2",
+      "node_index": 15591,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        227.301,
+        -0.5,
+        -97.658
+      ],
+      "bbox_min": [
+        226.701,
+        -1.0,
+        -130.153
+      ],
+      "bbox_max": [
+        227.901,
+        0.0,
+        -65.163
+      ]
+    },
+    {
+      "mesh_id": "5415219",
+      "element_id": "5415219",
+      "name": "1200x1000 2",
+      "node_index": 15592,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        226.228,
+        -0.5,
+        -65.676
+      ],
+      "bbox_min": [
+        225.756,
+        -1.0,
+        -66.453
+      ],
+      "bbox_max": [
+        226.701,
+        -0.0,
+        -64.898
+      ]
+    },
+    {
+      "mesh_id": "5415221",
+      "element_id": "5415221",
+      "name": "1200x1000 2",
+      "node_index": 15593,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        212.853,
+        -0.5,
+        -129.553
+      ],
+      "bbox_min": [
+        199.005,
+        -1.0,
+        -130.153
+      ],
+      "bbox_max": [
+        226.701,
+        -0.0,
+        -128.953
+      ]
+    },
+    {
+      "mesh_id": "5415231",
+      "element_id": "5415231",
+      "name": "1200x1000 2",
+      "node_index": 15598,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        204.209,
+        -0.5,
+        -63.023
+      ],
+      "bbox_min": [
+        203.508,
+        -1.0,
+        -64.261
+      ],
+      "bbox_max": [
+        204.909,
+        -0.0,
+        -61.785
+      ]
+    },
+    {
+      "mesh_id": "5415233",
+      "element_id": "5415233",
+      "name": "1200x1000 2",
+      "node_index": 15599,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        215.369,
+        -0.5,
+        -64.572
+      ],
+      "bbox_min": [
+        204.704,
+        -1.0,
+        -66.078
+      ],
+      "bbox_max": [
+        226.034,
+        -0.0,
+        -63.066
+      ]
+    },
+    {
+      "mesh_id": "5415399",
+      "element_id": "5415399",
+      "name": "1000x1000 2",
+      "node_index": 15682,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        215.448,
+        -0.5,
+        -115.751
+      ],
+      "bbox_min": [
+        201.893,
+        -1.0,
+        -128.953
+      ],
+      "bbox_max": [
+        229.003,
+        -0.0,
+        -102.549
+      ]
+    },
+    {
+      "mesh_id": "5415401",
+      "element_id": "5415401",
+      "name": "1000x1000 2",
+      "node_index": 15683,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        206.816,
+        -0.5,
+        -127.515
+      ],
+      "bbox_min": [
+        205.463,
+        -1.0,
+        -128.953
+      ],
+      "bbox_max": [
+        208.169,
+        -0.0,
+        -126.078
+      ]
+    },
+    {
+      "mesh_id": "5415403",
+      "element_id": "5415403",
+      "name": "1000x1000 2",
+      "node_index": 15684,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        219.595,
+        -0.5,
+        -119.604
+      ],
+      "bbox_min": [
+        209.893,
+        -1.0,
+        -128.953
+      ],
+      "bbox_max": [
+        229.298,
+        -0.0,
+        -110.255
+      ]
+    },
+    {
+      "mesh_id": "5415405",
+      "element_id": "5415405",
+      "name": "1000x1000 2",
+      "node_index": 15685,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        217.312,
+        -0.5,
+        -122.241
+      ],
+      "bbox_min": [
+        213.312,
+        -1.0,
+        -126.241
+      ],
+      "bbox_max": [
+        221.312,
+        -0.0,
+        -118.241
+      ]
+    },
+    {
+      "mesh_id": "5415407",
+      "element_id": "5415407",
+      "name": "1000x1000 2",
+      "node_index": 15686,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        222.297,
+        -0.5,
+        -124.548
+      ],
+      "bbox_min": [
+        217.893,
+        -1.0,
+        -128.953
+      ],
+      "bbox_max": [
+        226.701,
+        -0.0,
+        -120.144
+      ]
+    },
+    {
+      "mesh_id": "5415409",
+      "element_id": "5415409",
+      "name": "1000x1000 2",
+      "node_index": 15687,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        226.298,
+        -0.5,
+        -109.254
+      ],
+      "bbox_min": [
+        224.005,
+        -1.0,
+        -110.944
+      ],
+      "bbox_max": [
+        228.591,
+        -0.0,
+        -107.563
+      ]
+    },
+    {
+      "mesh_id": "5415411",
+      "element_id": "5415411",
+      "name": "1000x1000 2",
+      "node_index": 15688,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        208.179,
+        -0.5,
+        -76.603
+      ],
+      "bbox_min": [
+        187.377,
+        -1.0,
+        -95.277
+      ],
+      "bbox_max": [
+        228.982,
+        -0.0,
+        -57.929
+      ]
+    },
+    {
+      "mesh_id": "5415413",
+      "element_id": "5415413",
+      "name": "1000x1000 2",
+      "node_index": 15689,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        224.769,
+        -0.5,
+        -82.784
+      ],
+      "bbox_min": [
+        220.161,
+        -1.0,
+        -87.35
+      ],
+      "bbox_max": [
+        229.377,
+        -0.0,
+        -78.217
+      ]
+    },
+    {
+      "mesh_id": "5415415",
+      "element_id": "5415415",
+      "name": "1000x1000 2",
+      "node_index": 15690,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        213.002,
+        -0.5,
+        -72.986
+      ],
+      "bbox_min": [
+        197.032,
+        -1.0,
+        -87.268
+      ],
+      "bbox_max": [
+        228.972,
+        -0.0,
+        -58.704
+      ]
+    },
+    {
+      "mesh_id": "5415417",
+      "element_id": "5415417",
+      "name": "1000x1000 2",
+      "node_index": 15691,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        224.166,
+        -0.5,
+        -74.897
+      ],
+      "bbox_min": [
+        219.704,
+        -1.0,
+        -78.926
+      ],
+      "bbox_max": [
+        228.628,
+        -0.0,
+        -70.869
+      ]
+    },
+    {
+      "mesh_id": "5415419",
+      "element_id": "5415419",
+      "name": "1000x1000 2",
+      "node_index": 15692,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        217.676,
+        -0.5,
+        -73.143
+      ],
+      "bbox_min": [
+        211.676,
+        -1.0,
+        -79.802
+      ],
+      "bbox_max": [
+        223.677,
+        -0.0,
+        -66.485
+      ]
+    },
+    {
+      "mesh_id": "5415421",
+      "element_id": "5415421",
+      "name": "1000x1000 2",
+      "node_index": 15693,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        224.643,
+        -0.5,
+        -67.34
+      ],
+      "bbox_min": [
+        220.305,
+        -1.0,
+        -71.277
+      ],
+      "bbox_max": [
+        228.982,
+        -0.0,
+        -63.403
+      ]
+    },
+    {
+      "mesh_id": "5415423",
+      "element_id": "5415423",
+      "name": "1000x1000 2",
+      "node_index": 15694,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        219.674,
+        -0.5,
+        -70.568
+      ],
+      "bbox_min": [
+        209.97,
+        -1.0,
+        -78.924
+      ],
+      "bbox_max": [
+        229.378,
+        -0.0,
+        -62.211
+      ]
+    },
+    {
+      "mesh_id": "5415425",
+      "element_id": "5415425",
+      "name": "1000x1000 2",
+      "node_index": 15695,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        206.674,
+        -0.5,
+        -67.383
+      ],
+      "bbox_min": [
+        202.689,
+        -1.0,
+        -71.809
+      ],
+      "bbox_max": [
+        210.659,
+        -0.0,
+        -62.958
+      ]
+    },
+    {
+      "mesh_id": "5415467",
+      "element_id": "5415467",
+      "name": "1500x1000 2",
+      "node_index": 15715,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        227.54,
+        3.7,
+        -64.741
+      ],
+      "bbox_min": [
+        225.826,
+        3.2,
+        -66.063
+      ],
+      "bbox_max": [
+        229.255,
+        4.2,
+        -63.418
+      ]
+    },
+    {
+      "mesh_id": "5415469",
+      "element_id": "5415469",
+      "name": "1500x1000 2",
+      "node_index": 15716,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        228.65,
+        3.7,
+        -67.35
+      ],
+      "bbox_min": [
+        227.9,
+        3.2,
+        -68.674
+      ],
+      "bbox_max": [
+        229.4,
+        4.2,
+        -66.025
+      ]
+    },
+    {
+      "mesh_id": "5415471",
+      "element_id": "5415471",
+      "name": "1500x1000 2",
+      "node_index": 15717,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        228.582,
+        3.7,
+        -65.779
+      ],
+      "bbox_min": [
+        227.765,
+        3.2,
+        -66.189
+      ],
+      "bbox_max": [
+        229.4,
+        4.2,
+        -65.37
+      ]
+    },
+    {
+      "mesh_id": "5415632",
+      "element_id": "5415632",
+      "name": "JCHJ1-H800x300x14x26",
+      "node_index": 15814,
+      "zone": "unassigned",
+      "category": "钢围檩",
+      "block_id": "unassigned|钢围檩",
+      "center": [
+        203.301,
+        3.8,
+        -133.252
+      ],
+      "bbox_min": [
+        201.409,
+        3.4,
+        -135.145
+      ],
+      "bbox_max": [
+        205.193,
+        4.2,
+        -131.359
+      ]
+    },
+    {
+      "mesh_id": "5415634",
+      "element_id": "5415634",
+      "name": "JCHJ1-H800x300x14x26",
+      "node_index": 15815,
+      "zone": "unassigned",
+      "category": "钢围檩",
+      "block_id": "unassigned|钢围檩",
+      "center": [
+        204.8,
+        3.8,
+        -134.752
+      ],
+      "bbox_min": [
+        201.409,
+        3.4,
+        -138.145
+      ],
+      "bbox_max": [
+        208.191,
+        4.2,
+        -131.359
+      ]
+    },
+    {
+      "mesh_id": "5416075",
+      "element_id": "5416075",
+      "name": "荤桩",
+      "node_index": 16249,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        -78.998,
+        -5.3,
+        -196.105
+      ],
+      "bbox_min": [
+        -79.598,
+        -13.8,
+        -196.705
+      ],
+      "bbox_max": [
+        -78.398,
+        3.2,
+        -195.505
+      ]
+    },
+    {
+      "mesh_id": "5416077",
+      "element_id": "5416077",
+      "name": "素桩",
+      "node_index": 16250,
+      "zone": "unassigned",
+      "category": "咬合桩",
+      "block_id": "unassigned|咬合桩",
+      "center": [
+        -78.997,
+        -4.3,
+        -197.079
+      ],
+      "bbox_min": [
+        -79.597,
+        -11.8,
+        -197.603
+      ],
+      "bbox_max": [
+        -78.397,
+        3.2,
+        -196.554
+      ]
+    },
+    {
+      "mesh_id": "5416283",
+      "element_id": "5416283",
+      "name": "1300x2700 2",
+      "node_index": 16315,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        215.488,
+        4.44,
+        -63.326
+      ],
+      "bbox_min": [
+        204.802,
+        3.59,
+        -64.891
+      ],
+      "bbox_max": [
+        226.174,
+        5.29,
+        -61.761
+      ]
+    },
+    {
+      "mesh_id": "5416287",
+      "element_id": "5416287",
+      "name": "1300x2700 2",
+      "node_index": 16317,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        205.611,
+        4.44,
+        -61.283
+      ],
+      "bbox_min": [
+        204.917,
+        3.59,
+        -61.873
+      ],
+      "bbox_max": [
+        206.305,
+        5.29,
+        -60.693
+      ]
+    },
+    {
+      "mesh_id": "5416312",
+      "element_id": "5416312",
+      "name": "1500x1000 2",
+      "node_index": 16329,
+      "zone": "unassigned",
+      "category": "钢支撑",
+      "block_id": "unassigned|钢支撑",
+      "center": [
+        228.65,
+        3.7,
+        -92.656
+      ],
+      "bbox_min": [
+        227.9,
+        3.2,
+        -116.637
+      ],
+      "bbox_max": [
+        229.4,
+        4.2,
+        -68.674
+      ]
+    },
+    {
+      "mesh_id": "mesh-14331-鱼珠站-格构柱 2",
+      "element_id": null,
+      "name": "鱼珠站-格构柱 2",
+      "node_index": 16432,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        224.415,
+        -6.305,
+        -91.14
+      ],
+      "bbox_min": [
+        224.101,
+        -16.61,
+        -91.454
+      ],
+      "bbox_max": [
+        224.729,
+        4.0,
+        -90.826
+      ]
+    },
+    {
+      "mesh_id": "5425535",
+      "element_id": "5425535",
+      "name": "立柱桩",
+      "node_index": 17365,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        211.818,
+        -21.109,
+        -87.772
+      ],
+      "bbox_min": [
+        211.318,
+        -28.61,
+        -88.272
+      ],
+      "bbox_max": [
+        212.318,
+        -13.609,
+        -87.272
+      ]
+    },
+    {
+      "mesh_id": "5425538",
+      "element_id": "5425538",
+      "name": "立柱桩",
+      "node_index": 17368,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        211.919,
+        -21.109,
+        -95.634
+      ],
+      "bbox_min": [
+        211.419,
+        -28.61,
+        -96.134
+      ],
+      "bbox_max": [
+        212.419,
+        -13.609,
+        -95.134
+      ]
+    },
+    {
+      "mesh_id": "5425539",
+      "element_id": "5425539",
+      "name": "立柱桩",
+      "node_index": 17369,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        215.919,
+        -21.109,
+        -99.634
+      ],
+      "bbox_min": [
+        215.419,
+        -28.61,
+        -100.134
+      ],
+      "bbox_max": [
+        216.419,
+        -13.609,
+        -99.134
+      ]
+    },
+    {
+      "mesh_id": "5425540",
+      "element_id": "5425540",
+      "name": "立柱桩",
+      "node_index": 17370,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        219.919,
+        -21.109,
+        -103.634
+      ],
+      "bbox_min": [
+        219.419,
+        -28.61,
+        -104.134
+      ],
+      "bbox_max": [
+        220.419,
+        -13.609,
+        -103.134
+      ]
+    },
+    {
+      "mesh_id": "5425542",
+      "element_id": "5425542",
+      "name": "立柱桩",
+      "node_index": 17372,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        205.312,
+        -21.109,
+        -110.24
+      ],
+      "bbox_min": [
+        204.812,
+        -28.61,
+        -110.74
+      ],
+      "bbox_max": [
+        205.812,
+        -13.609,
+        -109.74
+      ]
+    },
+    {
+      "mesh_id": "5425543",
+      "element_id": "5425543",
+      "name": "立柱桩",
+      "node_index": 17373,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        209.312,
+        -21.109,
+        -114.24
+      ],
+      "bbox_min": [
+        208.812,
+        -28.61,
+        -114.74
+      ],
+      "bbox_max": [
+        209.812,
+        -13.609,
+        -113.74
+      ]
+    },
+    {
+      "mesh_id": "5425580",
+      "element_id": "5425580",
+      "name": "立柱桩",
+      "node_index": 17410,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        223.168,
+        -21.109,
+        -67.046
+      ],
+      "bbox_min": [
+        222.668,
+        -28.61,
+        -67.546
+      ],
+      "bbox_max": [
+        223.668,
+        -13.609,
+        -66.546
+      ]
+    },
+    {
+      "mesh_id": "5425581",
+      "element_id": "5425581",
+      "name": "立柱桩",
+      "node_index": 17411,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        220.181,
+        -21.109,
+        -87.371
+      ],
+      "bbox_min": [
+        219.681,
+        -28.61,
+        -87.871
+      ],
+      "bbox_max": [
+        220.681,
+        -13.609,
+        -86.871
+      ]
+    },
+    {
+      "mesh_id": "5425582",
+      "element_id": "5425582",
+      "name": "立柱桩",
+      "node_index": 17412,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        224.415,
+        -21.109,
+        -83.137
+      ],
+      "bbox_min": [
+        223.915,
+        -28.61,
+        -83.637
+      ],
+      "bbox_max": [
+        224.915,
+        -13.609,
+        -82.637
+      ]
+    },
+    {
+      "mesh_id": "5425583",
+      "element_id": "5425583",
+      "name": "立柱桩",
+      "node_index": 17413,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        219.053,
+        -21.109,
+        -71.606
+      ],
+      "bbox_min": [
+        218.553,
+        -28.61,
+        -72.106
+      ],
+      "bbox_max": [
+        219.553,
+        -13.609,
+        -71.106
+      ]
+    },
+    {
+      "mesh_id": "5425584",
+      "element_id": "5425584",
+      "name": "立柱桩",
+      "node_index": 17414,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        211.717,
+        -21.109,
+        -79.843
+      ],
+      "bbox_min": [
+        211.217,
+        -28.61,
+        -80.343
+      ],
+      "bbox_max": [
+        212.217,
+        -13.609,
+        -79.343
+      ]
+    },
+    {
+      "mesh_id": "5425585",
+      "element_id": "5425585",
+      "name": "立柱桩",
+      "node_index": 17415,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        215.69,
+        -21.109,
+        -75.376
+      ],
+      "bbox_min": [
+        215.19,
+        -28.61,
+        -75.876
+      ],
+      "bbox_max": [
+        216.19,
+        -13.609,
+        -74.876
+      ]
+    },
+    {
+      "mesh_id": "5425586",
+      "element_id": "5425586",
+      "name": "立柱桩",
+      "node_index": 17416,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        206.703,
+        -21.109,
+        -67.383
+      ],
+      "bbox_min": [
+        206.203,
+        -28.61,
+        -67.883
+      ],
+      "bbox_max": [
+        207.203,
+        -13.609,
+        -66.883
+      ]
+    },
+    {
+      "mesh_id": "5425587",
+      "element_id": "5425587",
+      "name": "立柱桩",
+      "node_index": 17417,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        202.73,
+        -21.109,
+        -71.85
+      ],
+      "bbox_min": [
+        202.23,
+        -28.61,
+        -72.35
+      ],
+      "bbox_max": [
+        203.23,
+        -13.609,
+        -71.35
+      ]
+    },
+    {
+      "mesh_id": "5425651",
+      "element_id": "5425651",
+      "name": "立柱桩",
+      "node_index": 17481,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        213.312,
+        -21.109,
+        -118.241
+      ],
+      "bbox_min": [
+        212.812,
+        -28.61,
+        -118.741
+      ],
+      "bbox_max": [
+        213.812,
+        -13.609,
+        -117.741
+      ]
+    },
+    {
+      "mesh_id": "5425652",
+      "element_id": "5425652",
+      "name": "立柱桩",
+      "node_index": 17482,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        223.919,
+        -21.109,
+        -107.634
+      ],
+      "bbox_min": [
+        223.419,
+        -28.61,
+        -108.134
+      ],
+      "bbox_max": [
+        224.419,
+        -13.609,
+        -107.134
+      ]
+    },
+    {
+      "mesh_id": "mesh-15382-立柱桩",
+      "element_id": null,
+      "name": "立柱桩",
+      "node_index": 17507,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        222.726,
+        -12.959,
+        -124.826
+      ],
+      "bbox_min": [
+        222.226,
+        -20.46,
+        -125.326
+      ],
+      "bbox_max": [
+        223.226,
+        -5.459,
+        -124.326
+      ]
+    },
+    {
+      "mesh_id": "mesh-15383-立柱桩",
+      "element_id": null,
+      "name": "立柱桩",
+      "node_index": 17509,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        217.312,
+        -12.959,
+        -122.241
+      ],
+      "bbox_min": [
+        216.812,
+        -20.46,
+        -122.741
+      ],
+      "bbox_max": [
+        217.812,
+        -5.459,
+        -121.741
+      ]
+    },
+    {
+      "mesh_id": "mesh-15384-立柱桩",
+      "element_id": null,
+      "name": "立柱桩",
+      "node_index": 17511,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        207.779,
+        -12.959,
+        -123.776
+      ],
+      "bbox_min": [
+        207.279,
+        -20.46,
+        -124.276
+      ],
+      "bbox_max": [
+        208.279,
+        -5.459,
+        -123.276
+      ]
+    },
+    {
+      "mesh_id": "5425957",
+      "element_id": "5425957",
+      "name": "立柱桩",
+      "node_index": 18084,
+      "zone": "unassigned",
+      "category": "立柱桩",
+      "block_id": "unassigned|立柱桩",
+      "center": [
+        224.415,
+        -21.109,
+        -91.14
+      ],
+      "bbox_min": [
+        223.915,
+        -28.61,
+        -91.64
+      ],
+      "bbox_max": [
+        224.915,
+        -13.609,
+        -90.64
+      ]
+    },
+    {
+      "mesh_id": "mesh-17038-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 20733,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        490.5,
+        -12.76,
+        205.499
+      ],
+      "bbox_min": [
+        490.25,
+        -29.26,
+        205.249
+      ],
+      "bbox_max": [
+        490.75,
+        3.74,
+        205.749
+      ]
+    },
+    {
+      "mesh_id": "mesh-17102-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 20861,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -11.06,
+        197.999
+      ],
+      "bbox_min": [
+        476.75,
+        -25.06,
+        197.749
+      ],
+      "bbox_max": [
+        477.25,
+        2.94,
+        198.249
+      ]
+    },
+    {
+      "mesh_id": "mesh-17103-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 20863,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        476.125,
+        -11.06,
+        200.251
+      ],
+      "bbox_min": [
+        475.875,
+        -25.06,
+        200.001
+      ],
+      "bbox_max": [
+        476.375,
+        2.94,
+        200.501
+      ]
+    },
+    {
+      "mesh_id": "mesh-17104-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 20865,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.875,
+        -11.06,
+        200.251
+      ],
+      "bbox_min": [
+        477.625,
+        -25.06,
+        200.001
+      ],
+      "bbox_max": [
+        478.125,
+        2.94,
+        200.501
+      ]
+    },
+    {
+      "mesh_id": "mesh-17253-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21163,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        480.493,
+        -12.76,
+        239.374
+      ],
+      "bbox_min": [
+        480.243,
+        -28.76,
+        239.124
+      ],
+      "bbox_max": [
+        480.743,
+        3.24,
+        239.624
+      ]
+    },
+    {
+      "mesh_id": "mesh-17254-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21165,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        480.493,
+        -13.26,
+        237.624
+      ],
+      "bbox_min": [
+        480.243,
+        -29.76,
+        237.374
+      ],
+      "bbox_max": [
+        480.743,
+        3.24,
+        237.874
+      ]
+    },
+    {
+      "mesh_id": "mesh-17255-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21167,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -12.76,
+        239.375
+      ],
+      "bbox_min": [
+        476.75,
+        -29.26,
+        239.125
+      ],
+      "bbox_max": [
+        477.25,
+        3.74,
+        239.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-17256-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21169,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -12.76,
+        237.625
+      ],
+      "bbox_min": [
+        476.75,
+        -29.26,
+        237.375
+      ],
+      "bbox_max": [
+        477.25,
+        3.74,
+        237.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-17417-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21491,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -10.76,
+        206.375
+      ],
+      "bbox_min": [
+        476.75,
+        -25.26,
+        206.125
+      ],
+      "bbox_max": [
+        477.25,
+        3.74,
+        206.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-17418-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21493,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -10.76,
+        204.625
+      ],
+      "bbox_min": [
+        476.75,
+        -25.26,
+        204.375
+      ],
+      "bbox_max": [
+        477.25,
+        3.74,
+        204.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-17419-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21495,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.0,
+        -12.76,
+        221.375
+      ],
+      "bbox_min": [
+        485.75,
+        -29.26,
+        221.125
+      ],
+      "bbox_max": [
+        486.25,
+        3.74,
+        221.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-17420-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21497,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.0,
+        -12.76,
+        219.625
+      ],
+      "bbox_min": [
+        485.75,
+        -29.26,
+        219.375
+      ],
+      "bbox_max": [
+        486.25,
+        3.74,
+        219.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-17421-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21499,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.0,
+        -13.26,
+        206.375
+      ],
+      "bbox_min": [
+        485.75,
+        -30.26,
+        206.125
+      ],
+      "bbox_max": [
+        486.25,
+        3.74,
+        206.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-17422-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21501,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.0,
+        -13.26,
+        204.625
+      ],
+      "bbox_min": [
+        485.75,
+        -30.26,
+        204.375
+      ],
+      "bbox_max": [
+        486.25,
+        3.74,
+        204.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-17452-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21561,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        488.262,
+        -10.76,
+        201.855
+      ],
+      "bbox_min": [
+        488.012,
+        -24.76,
+        201.605
+      ],
+      "bbox_max": [
+        488.512,
+        3.24,
+        202.105
+      ]
+    },
+    {
+      "mesh_id": "mesh-17453-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21563,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.512,
+        -10.76,
+        201.855
+      ],
+      "bbox_min": [
+        486.262,
+        -24.76,
+        201.605
+      ],
+      "bbox_max": [
+        486.762,
+        3.24,
+        202.105
+      ]
+    },
+    {
+      "mesh_id": "mesh-17454-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21565,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        487.387,
+        -10.76,
+        200.34
+      ],
+      "bbox_min": [
+        487.137,
+        -24.76,
+        200.09
+      ],
+      "bbox_max": [
+        487.637,
+        3.24,
+        200.59
+      ]
+    },
+    {
+      "mesh_id": "mesh-17455-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21567,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.875,
+        -13.26,
+        212.005
+      ],
+      "bbox_min": [
+        486.625,
+        -30.26,
+        211.755
+      ],
+      "bbox_max": [
+        487.125,
+        3.74,
+        212.255
+      ]
+    },
+    {
+      "mesh_id": "mesh-17456-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21569,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        485.125,
+        -13.26,
+        212.005
+      ],
+      "bbox_min": [
+        484.875,
+        -30.26,
+        211.755
+      ],
+      "bbox_max": [
+        485.375,
+        3.74,
+        212.255
+      ]
+    },
+    {
+      "mesh_id": "mesh-17457-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21571,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.0,
+        -13.26,
+        210.49
+      ],
+      "bbox_min": [
+        485.75,
+        -30.26,
+        210.24
+      ],
+      "bbox_max": [
+        486.25,
+        3.74,
+        210.74
+      ]
+    },
+    {
+      "mesh_id": "mesh-17458-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21573,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        491.039,
+        -12.26,
+        221.005
+      ],
+      "bbox_min": [
+        490.789,
+        -27.76,
+        220.755
+      ],
+      "bbox_max": [
+        491.289,
+        3.24,
+        221.255
+      ]
+    },
+    {
+      "mesh_id": "mesh-17459-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21575,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        489.289,
+        -12.26,
+        221.005
+      ],
+      "bbox_min": [
+        489.039,
+        -27.76,
+        220.755
+      ],
+      "bbox_max": [
+        489.539,
+        3.24,
+        221.255
+      ]
+    },
+    {
+      "mesh_id": "mesh-17460-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21577,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        490.164,
+        -12.26,
+        219.49
+      ],
+      "bbox_min": [
+        489.914,
+        -27.76,
+        219.24
+      ],
+      "bbox_max": [
+        490.414,
+        3.24,
+        219.74
+      ]
+    },
+    {
+      "mesh_id": "mesh-17461-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21579,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.875,
+        -12.76,
+        221.005
+      ],
+      "bbox_min": [
+        477.625,
+        -29.26,
+        220.755
+      ],
+      "bbox_max": [
+        478.125,
+        3.74,
+        221.255
+      ]
+    },
+    {
+      "mesh_id": "mesh-17462-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21581,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        476.125,
+        -12.76,
+        221.005
+      ],
+      "bbox_min": [
+        475.875,
+        -29.26,
+        220.755
+      ],
+      "bbox_max": [
+        476.375,
+        3.74,
+        221.255
+      ]
+    },
+    {
+      "mesh_id": "mesh-17463-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 21583,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -12.76,
+        219.49
+      ],
+      "bbox_min": [
+        476.75,
+        -29.26,
+        219.24
+      ],
+      "bbox_max": [
+        477.25,
+        3.74,
+        219.74
+      ]
+    },
+    {
+      "mesh_id": "mesh-17734-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22125,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.578,
+        -12.26,
+        228.25
+      ],
+      "bbox_min": [
+        486.328,
+        -27.76,
+        228.0
+      ],
+      "bbox_max": [
+        486.828,
+        3.24,
+        228.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-17735-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22127,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        484.078,
+        -12.26,
+        228.25
+      ],
+      "bbox_min": [
+        483.828,
+        -27.76,
+        228.0
+      ],
+      "bbox_max": [
+        484.328,
+        3.24,
+        228.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-17736-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22129,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        486.578,
+        -12.26,
+        230.75
+      ],
+      "bbox_min": [
+        486.328,
+        -27.76,
+        230.5
+      ],
+      "bbox_max": [
+        486.828,
+        3.24,
+        231.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-17737-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22131,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        484.078,
+        -12.26,
+        230.75
+      ],
+      "bbox_min": [
+        483.828,
+        -27.76,
+        230.5
+      ],
+      "bbox_max": [
+        484.328,
+        3.24,
+        231.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-17738-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22133,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        485.328,
+        -12.26,
+        229.5
+      ],
+      "bbox_min": [
+        485.078,
+        -27.76,
+        229.25
+      ],
+      "bbox_max": [
+        485.578,
+        3.24,
+        229.75
+      ]
+    },
+    {
+      "mesh_id": "mesh-17739-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22135,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        478.25,
+        -12.76,
+        228.25
+      ],
+      "bbox_min": [
+        478.0,
+        -29.26,
+        228.0
+      ],
+      "bbox_max": [
+        478.5,
+        3.74,
+        228.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-17740-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22137,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        475.75,
+        -12.76,
+        228.25
+      ],
+      "bbox_min": [
+        475.5,
+        -29.26,
+        228.0
+      ],
+      "bbox_max": [
+        476.0,
+        3.74,
+        228.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-17741-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22139,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        478.25,
+        -12.76,
+        230.75
+      ],
+      "bbox_min": [
+        478.0,
+        -29.26,
+        230.5
+      ],
+      "bbox_max": [
+        478.5,
+        3.74,
+        231.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-17742-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22141,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        475.75,
+        -12.76,
+        230.75
+      ],
+      "bbox_min": [
+        475.5,
+        -29.26,
+        230.5
+      ],
+      "bbox_max": [
+        476.0,
+        3.74,
+        231.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-17743-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22143,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -12.76,
+        229.5
+      ],
+      "bbox_min": [
+        476.75,
+        -29.26,
+        229.25
+      ],
+      "bbox_max": [
+        477.25,
+        3.74,
+        229.75
+      ]
+    },
+    {
+      "mesh_id": "mesh-17869-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22395,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        495.875,
+        -12.26,
+        212.375
+      ],
+      "bbox_min": [
+        495.625,
+        -27.76,
+        212.125
+      ],
+      "bbox_max": [
+        496.125,
+        3.24,
+        212.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-17870-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22397,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        494.125,
+        -12.26,
+        212.375
+      ],
+      "bbox_min": [
+        493.875,
+        -27.76,
+        212.125
+      ],
+      "bbox_max": [
+        494.375,
+        3.24,
+        212.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-17871-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22399,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        495.875,
+        -12.26,
+        210.625
+      ],
+      "bbox_min": [
+        495.625,
+        -27.76,
+        210.375
+      ],
+      "bbox_max": [
+        496.125,
+        3.24,
+        210.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-17872-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22401,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        494.125,
+        -12.26,
+        210.625
+      ],
+      "bbox_min": [
+        493.875,
+        -27.76,
+        210.375
+      ],
+      "bbox_max": [
+        494.375,
+        3.24,
+        210.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-17873-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22403,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.875,
+        -12.76,
+        245.875
+      ],
+      "bbox_min": [
+        477.625,
+        -28.76,
+        245.625
+      ],
+      "bbox_max": [
+        478.125,
+        3.24,
+        246.125
+      ]
+    },
+    {
+      "mesh_id": "mesh-17874-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22405,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        476.125,
+        -12.76,
+        245.875
+      ],
+      "bbox_min": [
+        475.875,
+        -28.76,
+        245.625
+      ],
+      "bbox_max": [
+        476.375,
+        3.24,
+        246.125
+      ]
+    },
+    {
+      "mesh_id": "mesh-17875-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22407,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.875,
+        -12.76,
+        244.125
+      ],
+      "bbox_min": [
+        477.625,
+        -28.76,
+        243.875
+      ],
+      "bbox_max": [
+        478.125,
+        3.24,
+        244.375
+      ]
+    },
+    {
+      "mesh_id": "mesh-17876-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 22409,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        476.125,
+        -12.76,
+        244.125
+      ],
+      "bbox_min": [
+        475.875,
+        -28.76,
+        243.875
+      ],
+      "bbox_max": [
+        476.375,
+        3.24,
+        244.375
+      ]
+    },
+    {
+      "mesh_id": "mesh-18333-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 23323,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -8.125,
+        -13.06,
+        -193.574
+      ],
+      "bbox_min": [
+        -8.375,
+        -29.06,
+        -193.824
+      ],
+      "bbox_max": [
+        -7.875,
+        2.94,
+        -193.324
+      ]
+    },
+    {
+      "mesh_id": "mesh-18334-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 23325,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -9.875,
+        -13.06,
+        -193.574
+      ],
+      "bbox_min": [
+        -10.125,
+        -29.06,
+        -193.824
+      ],
+      "bbox_max": [
+        -9.625,
+        2.94,
+        -193.324
+      ]
+    },
+    {
+      "mesh_id": "mesh-18337-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 23331,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -26.125,
+        -14.56,
+        -192.779
+      ],
+      "bbox_min": [
+        -26.375,
+        -32.06,
+        -193.029
+      ],
+      "bbox_max": [
+        -25.875,
+        2.94,
+        -192.529
+      ]
+    },
+    {
+      "mesh_id": "mesh-18338-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 23333,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -27.875,
+        -14.56,
+        -192.779
+      ],
+      "bbox_min": [
+        -28.125,
+        -32.06,
+        -193.029
+      ],
+      "bbox_max": [
+        -27.625,
+        2.94,
+        -192.529
+      ]
+    },
+    {
+      "mesh_id": "mesh-18967-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 24591,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -135.875,
+        -12.11,
+        -200.195
+      ],
+      "bbox_min": [
+        -136.125,
+        -28.11,
+        -200.445
+      ],
+      "bbox_max": [
+        -135.625,
+        3.89,
+        -199.945
+      ]
+    },
+    {
+      "mesh_id": "mesh-19121-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 24899,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -36.0,
+        -15.26,
+        -192.767
+      ],
+      "bbox_min": [
+        -36.25,
+        -33.76,
+        -193.017
+      ],
+      "bbox_max": [
+        -35.75,
+        3.24,
+        -192.517
+      ]
+    },
+    {
+      "mesh_id": "mesh-19123-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 24903,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        -18.0,
+        -13.26,
+        -193.482
+      ],
+      "bbox_min": [
+        -18.25,
+        -29.76,
+        -193.732
+      ],
+      "bbox_max": [
+        -17.75,
+        3.24,
+        -193.232
+      ]
+    },
+    {
+      "mesh_id": "mesh-19197-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25051,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -10.86,
+        211.5
+      ],
+      "bbox_min": [
+        476.75,
+        -25.36,
+        211.25
+      ],
+      "bbox_max": [
+        477.25,
+        3.64,
+        211.75
+      ]
+    },
+    {
+      "mesh_id": "mesh-19198-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25053,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -10.86,
+        209.75
+      ],
+      "bbox_min": [
+        476.75,
+        -25.36,
+        209.5
+      ],
+      "bbox_max": [
+        477.25,
+        3.64,
+        210.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19199-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25055,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        477.0,
+        -10.86,
+        213.25
+      ],
+      "bbox_min": [
+        476.75,
+        -25.36,
+        213.0
+      ],
+      "bbox_max": [
+        477.25,
+        3.64,
+        213.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-19200-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25057,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        478.515,
+        -10.86,
+        210.625
+      ],
+      "bbox_min": [
+        478.265,
+        -25.36,
+        210.375
+      ],
+      "bbox_max": [
+        478.765,
+        3.64,
+        210.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-19201-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25059,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        475.485,
+        -10.86,
+        210.625
+      ],
+      "bbox_min": [
+        475.235,
+        -25.36,
+        210.375
+      ],
+      "bbox_max": [
+        475.735,
+        3.64,
+        210.875
+      ]
+    },
+    {
+      "mesh_id": "mesh-19202-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25061,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        475.485,
+        -10.86,
+        212.375
+      ],
+      "bbox_min": [
+        475.235,
+        -25.36,
+        212.125
+      ],
+      "bbox_max": [
+        475.735,
+        3.64,
+        212.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-19203-管桩",
+      "element_id": null,
+      "name": "管桩",
+      "node_index": 25063,
+      "zone": "unassigned",
+      "category": "管桩",
+      "block_id": "unassigned|管桩",
+      "center": [
+        478.515,
+        -10.86,
+        212.375
+      ],
+      "bbox_min": [
+        478.265,
+        -25.36,
+        212.125
+      ],
+      "bbox_max": [
+        478.765,
+        3.64,
+        212.625
+      ]
+    },
+    {
+      "mesh_id": "mesh-19297-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25250,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -14.61,
+        -220.501
+      ],
+      "bbox_min": [
+        467.5,
+        -33.61,
+        -221.001
+      ],
+      "bbox_max": [
+        468.5,
+        4.39,
+        -220.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19298-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25252,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        477.0,
+        -14.76,
+        -220.501
+      ],
+      "bbox_min": [
+        476.5,
+        -33.76,
+        -221.001
+      ],
+      "bbox_max": [
+        477.5,
+        4.24,
+        -220.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19299-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25254,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        486.0,
+        -12.26,
+        -220.501
+      ],
+      "bbox_min": [
+        485.5,
+        -28.76,
+        -221.001
+      ],
+      "bbox_max": [
+        486.5,
+        4.24,
+        -220.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19300-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25256,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -16.66,
+        -229.501
+      ],
+      "bbox_min": [
+        467.5,
+        -35.66,
+        -230.001
+      ],
+      "bbox_max": [
+        468.5,
+        2.34,
+        -229.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19301-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25258,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        477.0,
+        -14.76,
+        -229.501
+      ],
+      "bbox_min": [
+        476.5,
+        -33.76,
+        -230.001
+      ],
+      "bbox_max": [
+        477.5,
+        4.24,
+        -229.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19302-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25260,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        476.993,
+        -14.76,
+        -238.499
+      ],
+      "bbox_min": [
+        476.493,
+        -33.76,
+        -238.999
+      ],
+      "bbox_max": [
+        477.493,
+        4.24,
+        -237.999
+      ]
+    },
+    {
+      "mesh_id": "mesh-19303-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25262,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -16.66,
+        -238.5
+      ],
+      "bbox_min": [
+        467.5,
+        -35.66,
+        -239.0
+      ],
+      "bbox_max": [
+        468.5,
+        2.34,
+        -238.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19304-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25264,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -12.11,
+        -211.501
+      ],
+      "bbox_min": [
+        467.5,
+        -28.61,
+        -212.001
+      ],
+      "bbox_max": [
+        468.5,
+        4.39,
+        -211.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19305-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25266,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        477.0,
+        -12.26,
+        -211.501
+      ],
+      "bbox_min": [
+        476.5,
+        -28.76,
+        -212.001
+      ],
+      "bbox_max": [
+        477.5,
+        4.24,
+        -211.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19306-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25268,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        486.0,
+        -12.26,
+        -211.501
+      ],
+      "bbox_min": [
+        485.5,
+        -28.76,
+        -212.001
+      ],
+      "bbox_max": [
+        486.5,
+        4.24,
+        -211.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19307-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25270,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        486.0,
+        -12.26,
+        -205.5
+      ],
+      "bbox_min": [
+        485.5,
+        -28.76,
+        -206.0
+      ],
+      "bbox_max": [
+        486.5,
+        4.24,
+        -205.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19308-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25272,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        477.0,
+        -12.26,
+        -205.5
+      ],
+      "bbox_min": [
+        476.5,
+        -28.76,
+        -206.0
+      ],
+      "bbox_max": [
+        477.5,
+        4.24,
+        -205.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19309-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25274,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -12.26,
+        -205.479
+      ],
+      "bbox_min": [
+        467.5,
+        -28.76,
+        -205.979
+      ],
+      "bbox_max": [
+        468.5,
+        4.24,
+        -204.979
+      ]
+    },
+    {
+      "mesh_id": "mesh-19310-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25276,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -12.76,
+        -244.675
+      ],
+      "bbox_min": [
+        467.5,
+        -29.26,
+        -245.175
+      ],
+      "bbox_max": [
+        468.5,
+        3.74,
+        -244.175
+      ]
+    },
+    {
+      "mesh_id": "mesh-19311-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25278,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        477.0,
+        -12.76,
+        -245.0
+      ],
+      "bbox_min": [
+        476.5,
+        -29.26,
+        -245.5
+      ],
+      "bbox_max": [
+        477.5,
+        3.74,
+        -244.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-19312-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25280,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        480.493,
+        -15.26,
+        -238.5
+      ],
+      "bbox_min": [
+        479.993,
+        -34.26,
+        -239.0
+      ],
+      "bbox_max": [
+        480.993,
+        3.74,
+        -238.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19313-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25282,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        490.164,
+        -12.76,
+        -220.501
+      ],
+      "bbox_min": [
+        489.664,
+        -29.26,
+        -221.001
+      ],
+      "bbox_max": [
+        490.664,
+        3.74,
+        -220.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19314-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25284,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        495.0,
+        -12.76,
+        -211.5
+      ],
+      "bbox_min": [
+        494.5,
+        -29.26,
+        -212.0
+      ],
+      "bbox_max": [
+        495.5,
+        3.74,
+        -211.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19315-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25286,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        490.5,
+        -12.76,
+        -205.5
+      ],
+      "bbox_min": [
+        490.0,
+        -29.26,
+        -206.0
+      ],
+      "bbox_max": [
+        491.0,
+        3.74,
+        -205.0
+      ]
+    },
+    {
+      "mesh_id": "mesh-19316-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25288,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        487.387,
+        -12.76,
+        -201.35
+      ],
+      "bbox_min": [
+        486.887,
+        -29.26,
+        -201.85
+      ],
+      "bbox_max": [
+        487.887,
+        3.74,
+        -200.85
+      ]
+    },
+    {
+      "mesh_id": "mesh-19317-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25290,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        477.0,
+        -12.76,
+        -199.501
+      ],
+      "bbox_min": [
+        476.5,
+        -29.26,
+        -200.001
+      ],
+      "bbox_max": [
+        477.5,
+        3.74,
+        -199.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-19318-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25292,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        468.0,
+        -12.76,
+        -199.825
+      ],
+      "bbox_min": [
+        467.5,
+        -29.26,
+        -200.325
+      ],
+      "bbox_max": [
+        468.5,
+        3.74,
+        -199.325
+      ]
+    },
+    {
+      "mesh_id": "mesh-19477-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25604,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        206.7,
+        -27.434,
+        -116.7
+      ],
+      "bbox_min": [
+        206.1,
+        -42.434,
+        -117.3
+      ],
+      "bbox_max": [
+        207.3,
+        -12.434,
+        -116.1
+      ]
+    },
+    {
+      "mesh_id": "mesh-19657-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25964,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        210.519,
+        -43.434,
+        -65.759
+      ],
+      "bbox_min": [
+        209.919,
+        -74.434,
+        -66.359
+      ],
+      "bbox_max": [
+        211.119,
+        -12.434,
+        -65.159
+      ]
+    },
+    {
+      "mesh_id": "mesh-19658-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25966,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        206.25,
+        -46.234,
+        -70.0
+      ],
+      "bbox_min": [
+        205.65,
+        -78.734,
+        -70.6
+      ],
+      "bbox_max": [
+        206.85,
+        -13.734,
+        -69.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19659-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25968,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        210.5,
+        -28.734,
+        -86.25
+      ],
+      "bbox_min": [
+        209.9,
+        -43.734,
+        -86.85
+      ],
+      "bbox_max": [
+        211.1,
+        -13.734,
+        -85.65
+      ]
+    },
+    {
+      "mesh_id": "mesh-19660-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25970,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -27.434,
+        -86.5
+      ],
+      "bbox_min": [
+        217.35,
+        -42.434,
+        -87.1
+      ],
+      "bbox_max": [
+        218.55,
+        -12.434,
+        -85.9
+      ]
+    },
+    {
+      "mesh_id": "mesh-19661-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25972,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.9,
+        -27.434,
+        -86.5
+      ],
+      "bbox_min": [
+        224.3,
+        -42.434,
+        -87.1
+      ],
+      "bbox_max": [
+        225.5,
+        -12.434,
+        -85.9
+      ]
+    },
+    {
+      "mesh_id": "mesh-19662-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25974,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.9,
+        -27.434,
+        -116.7
+      ],
+      "bbox_min": [
+        224.3,
+        -42.434,
+        -117.3
+      ],
+      "bbox_max": [
+        225.5,
+        -12.434,
+        -116.1
+      ]
+    },
+    {
+      "mesh_id": "mesh-19663-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25976,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        225.3,
+        -28.734,
+        -108.5
+      ],
+      "bbox_min": [
+        224.7,
+        -43.734,
+        -109.1
+      ],
+      "bbox_max": [
+        225.9,
+        -13.734,
+        -107.9
+      ]
+    },
+    {
+      "mesh_id": "mesh-19664-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25978,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.9,
+        -28.734,
+        -102.0
+      ],
+      "bbox_min": [
+        224.3,
+        -43.734,
+        -102.6
+      ],
+      "bbox_max": [
+        225.5,
+        -13.734,
+        -101.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19665-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25980,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.9,
+        -28.734,
+        -94.0
+      ],
+      "bbox_min": [
+        224.3,
+        -43.734,
+        -94.6
+      ],
+      "bbox_max": [
+        225.5,
+        -13.734,
+        -93.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19666-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25982,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -27.434,
+        -90.0
+      ],
+      "bbox_min": [
+        217.35,
+        -42.434,
+        -90.6
+      ],
+      "bbox_max": [
+        218.55,
+        -12.434,
+        -89.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19667-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25984,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        213.2,
+        -27.434,
+        -90.0
+      ],
+      "bbox_min": [
+        212.6,
+        -42.434,
+        -90.6
+      ],
+      "bbox_max": [
+        213.8,
+        -12.434,
+        -89.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19668-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25986,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -27.434,
+        -98.0
+      ],
+      "bbox_min": [
+        217.35,
+        -42.434,
+        -98.6
+      ],
+      "bbox_max": [
+        218.55,
+        -12.434,
+        -97.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19669-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25988,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        213.2,
+        -27.434,
+        -98.0
+      ],
+      "bbox_min": [
+        212.6,
+        -42.434,
+        -98.6
+      ],
+      "bbox_max": [
+        213.8,
+        -12.434,
+        -97.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19670-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25990,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -27.434,
+        -116.7
+      ],
+      "bbox_min": [
+        217.35,
+        -42.434,
+        -117.3
+      ],
+      "bbox_max": [
+        218.55,
+        -12.434,
+        -116.1
+      ]
+    },
+    {
+      "mesh_id": "mesh-19671-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25992,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -27.434,
+        -113.0
+      ],
+      "bbox_min": [
+        217.35,
+        -42.434,
+        -113.6
+      ],
+      "bbox_max": [
+        218.55,
+        -12.434,
+        -112.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19672-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25994,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        213.2,
+        -27.434,
+        -113.0
+      ],
+      "bbox_min": [
+        212.6,
+        -42.434,
+        -113.6
+      ],
+      "bbox_max": [
+        213.8,
+        -12.434,
+        -112.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19673-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 25996,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        207.0,
+        -28.734,
+        -109.0
+      ],
+      "bbox_min": [
+        206.4,
+        -43.734,
+        -109.6
+      ],
+      "bbox_max": [
+        207.6,
+        -13.734,
+        -108.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19696-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26042,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        221.951,
+        -27.434,
+        -99.393
+      ],
+      "bbox_min": [
+        221.351,
+        -42.434,
+        -99.993
+      ],
+      "bbox_max": [
+        222.551,
+        -12.434,
+        -98.793
+      ]
+    },
+    {
+      "mesh_id": "mesh-19702-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26054,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        207.0,
+        -27.434,
+        -106.0
+      ],
+      "bbox_min": [
+        206.4,
+        -42.434,
+        -106.6
+      ],
+      "bbox_max": [
+        207.6,
+        -12.434,
+        -105.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19742-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26134,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.3,
+        -43.434,
+        -62.75
+      ],
+      "bbox_min": [
+        201.7,
+        -74.434,
+        -63.35
+      ],
+      "bbox_max": [
+        202.9,
+        -12.434,
+        -62.15
+      ]
+    },
+    {
+      "mesh_id": "mesh-19750-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26150,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -27.434,
+        -74.0
+      ],
+      "bbox_min": [
+        201.9,
+        -42.434,
+        -74.6
+      ],
+      "bbox_max": [
+        203.1,
+        -12.434,
+        -73.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19758-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26166,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -28.734,
+        -78.0
+      ],
+      "bbox_min": [
+        201.9,
+        -43.734,
+        -78.6
+      ],
+      "bbox_max": [
+        203.1,
+        -13.734,
+        -77.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19766-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26182,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -27.434,
+        -82.0
+      ],
+      "bbox_min": [
+        201.9,
+        -42.434,
+        -82.6
+      ],
+      "bbox_max": [
+        203.1,
+        -12.434,
+        -81.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19774-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26198,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -28.734,
+        -86.0
+      ],
+      "bbox_min": [
+        201.9,
+        -43.734,
+        -86.6
+      ],
+      "bbox_max": [
+        203.1,
+        -13.734,
+        -85.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19782-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26214,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -27.434,
+        -90.0
+      ],
+      "bbox_min": [
+        201.9,
+        -42.434,
+        -90.6
+      ],
+      "bbox_max": [
+        203.1,
+        -12.434,
+        -89.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19790-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26230,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -28.734,
+        -94.0
+      ],
+      "bbox_min": [
+        201.9,
+        -43.734,
+        -94.6
+      ],
+      "bbox_max": [
+        203.1,
+        -13.734,
+        -93.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19797-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26244,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -27.434,
+        -98.0
+      ],
+      "bbox_min": [
+        201.9,
+        -42.434,
+        -98.6
+      ],
+      "bbox_max": [
+        203.1,
+        -12.434,
+        -97.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19804-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26258,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -28.734,
+        -102.0
+      ],
+      "bbox_min": [
+        201.9,
+        -43.734,
+        -102.6
+      ],
+      "bbox_max": [
+        203.1,
+        -13.734,
+        -101.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19811-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26272,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.7,
+        -27.434,
+        -106.0
+      ],
+      "bbox_min": [
+        202.1,
+        -42.434,
+        -106.6
+      ],
+      "bbox_max": [
+        203.3,
+        -12.434,
+        -105.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-19819-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26288,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.5,
+        -28.734,
+        -109.5
+      ],
+      "bbox_min": [
+        201.9,
+        -43.734,
+        -110.1
+      ],
+      "bbox_max": [
+        203.1,
+        -13.734,
+        -108.9
+      ]
+    },
+    {
+      "mesh_id": "mesh-19838-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 26326,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        212.8,
+        -27.434,
+        -116.7
+      ],
+      "bbox_min": [
+        212.2,
+        -42.434,
+        -117.3
+      ],
+      "bbox_max": [
+        213.4,
+        -12.434,
+        -116.1
+      ]
+    },
+    {
+      "mesh_id": "mesh-20191-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27032,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.452,
+        -16.36,
+        -144.15
+      ],
+      "bbox_min": [
+        201.852,
+        -36.36,
+        -144.75
+      ],
+      "bbox_max": [
+        203.052,
+        3.64,
+        -143.55
+      ]
+    },
+    {
+      "mesh_id": "mesh-20192-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27034,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        205.452,
+        -16.36,
+        -144.15
+      ],
+      "bbox_min": [
+        204.852,
+        -36.36,
+        -144.75
+      ],
+      "bbox_max": [
+        206.052,
+        3.64,
+        -143.55
+      ]
+    },
+    {
+      "mesh_id": "mesh-20193-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27036,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        201.852,
+        -16.36,
+        -148.55
+      ],
+      "bbox_min": [
+        201.252,
+        -36.36,
+        -149.15
+      ],
+      "bbox_max": [
+        202.452,
+        3.64,
+        -147.95
+      ]
+    },
+    {
+      "mesh_id": "mesh-20194-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27038,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        204.852,
+        -16.36,
+        -148.55
+      ],
+      "bbox_min": [
+        204.252,
+        -36.36,
+        -149.15
+      ],
+      "bbox_max": [
+        205.452,
+        3.64,
+        -147.95
+      ]
+    },
+    {
+      "mesh_id": "mesh-20333-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27316,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -28.734,
+        -94.0
+      ],
+      "bbox_min": [
+        217.35,
+        -43.734,
+        -94.6
+      ],
+      "bbox_max": [
+        218.55,
+        -13.734,
+        -93.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20334-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27318,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        213.0,
+        -28.734,
+        -94.0
+      ],
+      "bbox_min": [
+        212.4,
+        -43.734,
+        -94.6
+      ],
+      "bbox_max": [
+        213.6,
+        -13.734,
+        -93.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20335-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27320,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        206.699,
+        -31.49,
+        -94.1
+      ],
+      "bbox_min": [
+        206.099,
+        -51.49,
+        -94.7
+      ],
+      "bbox_max": [
+        207.299,
+        -11.49,
+        -93.5
+      ]
+    },
+    {
+      "mesh_id": "mesh-20336-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27322,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -28.734,
+        -102.0
+      ],
+      "bbox_min": [
+        217.35,
+        -43.734,
+        -102.6
+      ],
+      "bbox_max": [
+        218.55,
+        -13.734,
+        -101.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20337-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27324,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        207.0,
+        -28.734,
+        -102.0
+      ],
+      "bbox_min": [
+        206.4,
+        -43.734,
+        -102.6
+      ],
+      "bbox_max": [
+        207.6,
+        -13.734,
+        -101.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20338-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27326,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        213.2,
+        -28.734,
+        -102.0
+      ],
+      "bbox_min": [
+        212.6,
+        -43.734,
+        -102.6
+      ],
+      "bbox_max": [
+        213.8,
+        -13.734,
+        -101.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20339-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27328,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        217.95,
+        -28.734,
+        -108.5
+      ],
+      "bbox_min": [
+        217.35,
+        -43.734,
+        -109.1
+      ],
+      "bbox_max": [
+        218.55,
+        -13.734,
+        -107.9
+      ]
+    },
+    {
+      "mesh_id": "mesh-20340-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27330,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        212.0,
+        -28.734,
+        -108.5
+      ],
+      "bbox_min": [
+        211.4,
+        -43.734,
+        -109.1
+      ],
+      "bbox_max": [
+        212.6,
+        -13.734,
+        -107.9
+      ]
+    },
+    {
+      "mesh_id": "mesh-20381-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27410,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        219.6,
+        -32.434,
+        -69.45
+      ],
+      "bbox_min": [
+        219.0,
+        -52.434,
+        -70.05
+      ],
+      "bbox_max": [
+        220.2,
+        -12.434,
+        -68.85
+      ]
+    },
+    {
+      "mesh_id": "mesh-20382-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27412,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        206.75,
+        -25.61,
+        -125.0
+      ],
+      "bbox_min": [
+        206.15,
+        -45.61,
+        -125.6
+      ],
+      "bbox_max": [
+        207.35,
+        -5.61,
+        -124.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20383-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27414,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        214.35,
+        -25.61,
+        -125.0
+      ],
+      "bbox_min": [
+        213.75,
+        -45.61,
+        -125.6
+      ],
+      "bbox_max": [
+        214.95,
+        -5.61,
+        -124.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-20439-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27526,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        219.45,
+        -32.434,
+        -66.55
+      ],
+      "bbox_min": [
+        218.85,
+        -52.434,
+        -67.15
+      ],
+      "bbox_max": [
+        220.05,
+        -12.434,
+        -65.95
+      ]
+    },
+    {
+      "mesh_id": "mesh-20440-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27528,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        213.6,
+        -44.434,
+        -70.14
+      ],
+      "bbox_min": [
+        213.0,
+        -76.434,
+        -70.74
+      ],
+      "bbox_max": [
+        214.2,
+        -12.434,
+        -69.54
+      ]
+    },
+    {
+      "mesh_id": "mesh-20657-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27960,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        219.55,
+        -38.51,
+        -78.003
+      ],
+      "bbox_min": [
+        218.95,
+        -71.01,
+        -78.603
+      ],
+      "bbox_max": [
+        220.15,
+        -6.01,
+        -77.403
+      ]
+    },
+    {
+      "mesh_id": "mesh-20658-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 27962,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        210.526,
+        -46.334,
+        -78.03
+      ],
+      "bbox_min": [
+        209.826,
+        -78.834,
+        -78.73
+      ],
+      "bbox_max": [
+        211.226,
+        -13.834,
+        -77.33
+      ]
+    },
+    {
+      "mesh_id": "mesh-20748-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 28142,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        -153.674,
+        -16.76,
+        -22.8
+      ],
+      "bbox_min": [
+        -154.274,
+        -36.76,
+        -23.4
+      ],
+      "bbox_max": [
+        -153.074,
+        3.24,
+        -22.2
+      ]
+    },
+    {
+      "mesh_id": "mesh-20836-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 28318,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        -145.501,
+        -33.76,
+        -28.4
+      ],
+      "bbox_min": [
+        -146.701,
+        -70.76,
+        -29.6
+      ],
+      "bbox_max": [
+        -144.301,
+        3.24,
+        -27.2
+      ]
+    },
+    {
+      "mesh_id": "mesh-20837-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 28320,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        -129.438,
+        -36.46,
+        -21.55
+      ],
+      "bbox_min": [
+        -130.238,
+        -74.96,
+        -22.35
+      ],
+      "bbox_max": [
+        -128.638,
+        2.04,
+        -20.75
+      ]
+    },
+    {
+      "mesh_id": "mesh-20838-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 28322,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        -142.942,
+        -34.46,
+        -21.55
+      ],
+      "bbox_min": [
+        -143.742,
+        -70.96,
+        -22.35
+      ],
+      "bbox_max": [
+        -142.142,
+        2.04,
+        -20.75
+      ]
+    },
+    {
+      "mesh_id": "mesh-20842-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 28330,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        -129.615,
+        -34.76,
+        -28.4
+      ],
+      "bbox_min": [
+        -130.815,
+        -72.76,
+        -29.6
+      ],
+      "bbox_max": [
+        -128.415,
+        3.24,
+        -27.2
+      ]
+    },
+    {
+      "mesh_id": "mesh-21381-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 29408,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        485.328,
+        -15.26,
+        -229.501
+      ],
+      "bbox_min": [
+        484.828,
+        -34.26,
+        -230.001
+      ],
+      "bbox_max": [
+        485.828,
+        3.74,
+        -229.001
+      ]
+    },
+    {
+      "mesh_id": "mesh-21718-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 30082,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        202.729,
+        -27.434,
+        -114.0
+      ],
+      "bbox_min": [
+        202.129,
+        -42.434,
+        -114.6
+      ],
+      "bbox_max": [
+        203.329,
+        -12.434,
+        -113.4
+      ]
+    },
+    {
+      "mesh_id": "mesh-21753-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 30152,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        221.951,
+        -27.434,
+        -105.351
+      ],
+      "bbox_min": [
+        221.351,
+        -42.434,
+        -105.951
+      ],
+      "bbox_max": [
+        222.551,
+        -12.434,
+        -104.751
+      ]
+    },
+    {
+      "mesh_id": "mesh-21754-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 30154,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.95,
+        -20.51,
+        -78.003
+      ],
+      "bbox_min": [
+        224.35,
+        -35.51,
+        -78.603
+      ],
+      "bbox_max": [
+        225.55,
+        -5.51,
+        -77.403
+      ]
+    },
+    {
+      "mesh_id": "mesh-21755-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 30156,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.954,
+        -32.434,
+        -69.543
+      ],
+      "bbox_min": [
+        224.354,
+        -52.434,
+        -70.143
+      ],
+      "bbox_max": [
+        225.554,
+        -12.434,
+        -68.943
+      ]
+    },
+    {
+      "mesh_id": "mesh-21756-灌注桩",
+      "element_id": null,
+      "name": "灌注桩",
+      "node_index": 30158,
+      "zone": "unassigned",
+      "category": "灌注桩",
+      "block_id": "unassigned|灌注桩",
+      "center": [
+        224.954,
+        -32.434,
+        -67.088
+      ],
+      "bbox_min": [
+        224.354,
+        -52.434,
+        -67.688
+      ],
+      "bbox_max": [
+        225.554,
+        -12.434,
+        -66.488
+      ]
+    }
+  ],
+  "unclassified_meshes": []
+}

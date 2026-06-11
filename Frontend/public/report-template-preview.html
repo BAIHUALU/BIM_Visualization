@@ -1,0 +1,604 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BIM施工进度分析报告模板预览</title>
+    <style>
+      @page {
+        size: A4 landscape;
+        margin: 0;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        min-height: 100%;
+        margin: 0;
+        background: #0a1220;
+        color: #f7fbff;
+        font-family:
+          "Microsoft YaHei",
+          "PingFang SC",
+          "Segoe UI",
+          Arial,
+          sans-serif;
+      }
+
+      body {
+        display: grid;
+        place-items: center;
+        padding: 18px;
+      }
+
+      .report-page {
+        position: relative;
+        width: 297mm;
+        height: 210mm;
+        overflow: hidden;
+        padding: 13mm 14mm 10mm;
+        background:
+          linear-gradient(135deg, rgba(16, 41, 69, 0.96), rgba(5, 14, 27, 0.98)),
+          radial-gradient(circle at 20% 15%, rgba(68, 197, 255, 0.16), transparent 34%),
+          radial-gradient(circle at 86% 72%, rgba(41, 192, 145, 0.12), transparent 30%);
+        border: 1px solid rgba(115, 183, 224, 0.3);
+        box-shadow: 0 24px 80px rgba(0, 0, 0, 0.5);
+      }
+
+      .report-page::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(116, 196, 255, 0.045) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(116, 196, 255, 0.04) 1px, transparent 1px);
+        background-size: 18mm 18mm;
+        mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.72), transparent 76%);
+      }
+
+      .report-content {
+        position: relative;
+        z-index: 1;
+        display: grid;
+        height: 100%;
+        grid-template-rows: auto 1fr auto;
+        gap: 8mm;
+      }
+
+      .header {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 96mm;
+        gap: 9mm;
+        align-items: start;
+      }
+
+      .project {
+        margin: 0 0 3mm;
+        color: #7dd3fc;
+        font-size: 11pt;
+        font-weight: 700;
+        letter-spacing: 0;
+      }
+
+      h1 {
+        margin: 0;
+        color: #ffffff;
+        font-size: 24pt;
+        line-height: 1.1;
+        letter-spacing: 0;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3mm 6mm;
+        margin-top: 4mm;
+        color: #bed4e8;
+        font-size: 9pt;
+      }
+
+      .meta strong {
+        color: #ffffff;
+      }
+
+      .kpis {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2.5mm;
+      }
+
+      .kpi {
+        min-height: 19mm;
+        padding: 3.2mm 3.6mm;
+        border: 1px solid rgba(125, 211, 252, 0.24);
+        border-radius: 2mm;
+        background: rgba(10, 25, 45, 0.76);
+      }
+
+      .kpi span {
+        display: block;
+        color: #9eb4ca;
+        font-size: 7.5pt;
+      }
+
+      .kpi strong {
+        display: block;
+        margin-top: 1.8mm;
+        color: #ffffff;
+        font-size: 17pt;
+        line-height: 1;
+      }
+
+      .main {
+        min-height: 0;
+        display: grid;
+        grid-template-columns: minmax(0, 1.55fr) minmax(0, 0.9fr);
+        gap: 7mm;
+      }
+
+      .model-card,
+      .analysis-card,
+      .advice-card {
+        border: 1px solid rgba(125, 211, 252, 0.22);
+        border-radius: 2.4mm;
+        background: rgba(7, 20, 37, 0.74);
+      }
+
+      .model-card {
+        position: relative;
+        overflow: hidden;
+        min-height: 0;
+      }
+
+      .model-header {
+        position: absolute;
+        top: 4mm;
+        left: 4mm;
+        z-index: 2;
+        display: flex;
+        align-items: center;
+        gap: 2.2mm;
+        padding: 2.2mm 3.2mm;
+        border-radius: 1.8mm;
+        background: rgba(7, 20, 37, 0.72);
+        color: #e9f7ff;
+        font-size: 9pt;
+        font-weight: 700;
+      }
+
+      .dot {
+        width: 2.4mm;
+        height: 2.4mm;
+        border-radius: 999px;
+        background: #31e083;
+        box-shadow: 0 0 8px rgba(49, 224, 131, 0.8);
+      }
+
+      .model-viewport {
+        position: absolute;
+        inset: 0;
+        background:
+          linear-gradient(180deg, rgba(168, 220, 242, 0.92), rgba(118, 183, 212, 0.9)),
+          radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.35), transparent 25%);
+      }
+
+      .model-shape {
+        position: absolute;
+        border-radius: 2mm;
+        transform: skewX(-18deg) rotate(-8deg);
+        transform-origin: center;
+        box-shadow:
+          0 12px 24px rgba(10, 34, 42, 0.22),
+          inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+      }
+
+      .shape-complete {
+        background: linear-gradient(135deg, rgba(21, 106, 55, 0.95), rgba(44, 178, 93, 0.82));
+      }
+
+      .shape-risk {
+        background: linear-gradient(135deg, rgba(40, 64, 82, 0.96), rgba(22, 36, 52, 0.9));
+      }
+
+      .shape-active {
+        background: linear-gradient(135deg, rgba(31, 128, 245, 0.95), rgba(37, 99, 235, 0.78));
+      }
+
+      .s1 {
+        width: 58%;
+        height: 19%;
+        left: 8%;
+        top: 20%;
+      }
+
+      .s2 {
+        width: 42%;
+        height: 17%;
+        right: 7%;
+        top: 34%;
+      }
+
+      .s3 {
+        width: 64%;
+        height: 15%;
+        left: 18%;
+        bottom: 20%;
+      }
+
+      .s4 {
+        width: 24%;
+        height: 13%;
+        right: 18%;
+        top: 17%;
+      }
+
+      .model-lines {
+        position: absolute;
+        inset: 0;
+        opacity: 0.36;
+        background-image:
+          repeating-linear-gradient(98deg, transparent 0 8px, rgba(3, 21, 35, 0.8) 8px 10px),
+          repeating-linear-gradient(4deg, transparent 0 14px, rgba(7, 39, 58, 0.42) 14px 15px);
+        mask-image: linear-gradient(100deg, transparent 0 10%, #000 18% 82%, transparent 92%);
+      }
+
+      .legend {
+        position: absolute;
+        right: 4mm;
+        bottom: 4mm;
+        display: flex;
+        gap: 3mm;
+        padding: 2.2mm 3mm;
+        border-radius: 1.6mm;
+        background: rgba(7, 20, 37, 0.7);
+        color: #e7f2fb;
+        font-size: 7.5pt;
+      }
+
+      .legend i {
+        display: inline-block;
+        width: 3mm;
+        height: 3mm;
+        margin-right: 1.2mm;
+        border-radius: 0.8mm;
+        vertical-align: -0.6mm;
+      }
+
+      .green {
+        background: #31e083;
+      }
+
+      .blue {
+        background: #2f8cff;
+      }
+
+      .dark {
+        background: #24374c;
+      }
+
+      .side {
+        display: grid;
+        min-height: 0;
+        grid-template-rows: auto 1fr;
+        gap: 4mm;
+      }
+
+      .analysis-card {
+        padding: 5mm;
+      }
+
+      .section-title {
+        margin: 0 0 3mm;
+        color: #ffffff;
+        font-size: 12pt;
+        line-height: 1.2;
+      }
+
+      .summary {
+        margin: 0 0 4mm;
+        color: #c9d8e6;
+        font-size: 8.8pt;
+        line-height: 1.65;
+      }
+
+      .highlight {
+        color: #7dd3fc;
+        font-weight: 700;
+      }
+
+      .risk-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 7.8pt;
+      }
+
+      .risk-table th,
+      .risk-table td {
+        padding: 2.1mm 1.6mm;
+        border-bottom: 1px solid rgba(125, 211, 252, 0.15);
+        text-align: left;
+      }
+
+      .risk-table th {
+        color: #8fb0c8;
+        font-weight: 500;
+      }
+
+      .risk-table td {
+        color: #e8f1f8;
+      }
+
+      .risk-table td:nth-child(n + 3),
+      .risk-table th:nth-child(n + 3) {
+        text-align: right;
+      }
+
+      .lag {
+        color: #ffca5f;
+        font-weight: 700;
+      }
+
+      .area-list {
+        display: grid;
+        gap: 2mm;
+        margin: 0 0 4mm;
+      }
+
+      .area-item {
+        display: grid;
+        grid-template-columns: 18mm 1fr 14mm;
+        align-items: center;
+        gap: 2mm;
+        color: #d8e6f1;
+        font-size: 8pt;
+      }
+
+      .bar {
+        height: 2mm;
+        overflow: hidden;
+        border-radius: 999px;
+        background: rgba(148, 163, 184, 0.2);
+      }
+
+      .bar span {
+        display: block;
+        height: 100%;
+        border-radius: inherit;
+        background: linear-gradient(90deg, #ff6b63, #ffca5f);
+      }
+
+      .footer {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 55mm;
+        gap: 6mm;
+        align-items: end;
+      }
+
+      .advice-card {
+        padding: 4mm 5mm;
+      }
+
+      .advice-list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 4mm;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .advice-list li {
+        position: relative;
+        padding-left: 6mm;
+        color: #d6e4ef;
+        font-size: 8.2pt;
+        line-height: 1.55;
+      }
+
+      .advice-list li::before {
+        content: attr(data-index);
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 4mm;
+        height: 4mm;
+        border-radius: 50%;
+        background: rgba(125, 211, 252, 0.18);
+        color: #7dd3fc;
+        text-align: center;
+        font-size: 6.8pt;
+        line-height: 4mm;
+      }
+
+      .stamp {
+        color: #8fa8bb;
+        font-size: 7.2pt;
+        line-height: 1.6;
+        text-align: right;
+      }
+
+      .stamp strong {
+        display: block;
+        color: #dbeafe;
+        font-size: 8.5pt;
+      }
+
+      @media print {
+        html,
+        body {
+          width: 297mm;
+          height: 210mm;
+          padding: 0;
+          background: #0a1220;
+        }
+
+        body {
+          display: block;
+        }
+
+        .report-page {
+          width: 297mm;
+          height: 210mm;
+          border: 0;
+          box-shadow: none;
+          page-break-after: avoid;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="report-page">
+      <div class="report-content">
+        <header class="header">
+          <section>
+            <p class="project">深圳宝安国际机场 T2 航站楼基础工程</p>
+            <h1>BIM施工进度分析报告</h1>
+            <div class="meta">
+              <span>当前标段：<strong>E标段</strong></span>
+              <span>报告日期：<strong>2026-05-29</strong></span>
+              <span>数据来源：<strong>BIM模型 / 计划进度 / 实际录入</strong></span>
+            </div>
+          </section>
+          <section class="kpis" aria-label="核心指标">
+            <article class="kpi">
+              <span>计划完成率</span>
+              <strong>90%</strong>
+            </article>
+            <article class="kpi">
+              <span>实际完成率</span>
+              <strong>40%</strong>
+            </article>
+            <article class="kpi">
+              <span>录入覆盖率</span>
+              <strong>5/101</strong>
+            </article>
+            <article class="kpi">
+              <span>预警/滞后</span>
+              <strong>3</strong>
+            </article>
+          </section>
+        </header>
+
+        <section class="main">
+          <section class="model-card" aria-label="BIM模型截图占位">
+            <div class="model-viewport">
+              <div class="model-lines"></div>
+              <div class="model-shape shape-complete s1"></div>
+              <div class="model-shape shape-active s2"></div>
+              <div class="model-shape shape-risk s3"></div>
+              <div class="model-shape shape-complete s4"></div>
+            </div>
+            <div class="model-header"><span class="dot"></span>实际进度模型截图</div>
+            <div class="legend">
+              <span><i class="green"></i>已完成</span>
+              <span><i class="blue"></i>进行中</span>
+              <span><i class="dark"></i>风险/未完成</span>
+            </div>
+          </section>
+
+          <aside class="side">
+            <section class="analysis-card">
+              <h2 class="section-title">总体判断</h2>
+              <p class="summary">
+                E标段截至 2026-05-29，计划平均完成
+                <span class="highlight">90%</span>，实际平均完成
+                <span class="highlight">40%</span>，整体偏差
+                <span class="lag">-50%</span>。当前风险集中在 E1 区域，建议优先核查计划已完成但实际未录入或实际为 0% 的板块。
+              </p>
+
+              <h2 class="section-title">主要滞后区域</h2>
+              <div class="area-list">
+                <div class="area-item">
+                  <strong>E1</strong>
+                  <div class="bar"><span style="width: 100%"></span></div>
+                  <span class="lag">-60%</span>
+                </div>
+                <div class="area-item">
+                  <strong>E2</strong>
+                  <div class="bar"><span style="width: 72%"></span></div>
+                  <span class="lag">-43%</span>
+                </div>
+                <div class="area-item">
+                  <strong>E4</strong>
+                  <div class="bar"><span style="width: 55%"></span></div>
+                  <span class="lag">-32%</span>
+                </div>
+              </div>
+
+              <h2 class="section-title">重点风险板块 Top 5</h2>
+              <table class="risk-table">
+                <thead>
+                  <tr>
+                    <th>板块</th>
+                    <th>区域</th>
+                    <th>计划</th>
+                    <th>实际</th>
+                    <th>偏差</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>E1钢围檩</td>
+                    <td>E1</td>
+                    <td>100%</td>
+                    <td>0%</td>
+                    <td class="lag">-100%</td>
+                  </tr>
+                  <tr>
+                    <td>E1钢支撑</td>
+                    <td>E1</td>
+                    <td>100%</td>
+                    <td>0%</td>
+                    <td class="lag">-100%</td>
+                  </tr>
+                  <tr>
+                    <td>E1咬合桩</td>
+                    <td>E1</td>
+                    <td>100%</td>
+                    <td>0%</td>
+                    <td class="lag">-100%</td>
+                  </tr>
+                  <tr>
+                    <td>E2冠梁</td>
+                    <td>E2</td>
+                    <td>80%</td>
+                    <td>30%</td>
+                    <td class="lag">-50%</td>
+                  </tr>
+                  <tr>
+                    <td>E4支护桩</td>
+                    <td>E4</td>
+                    <td>70%</td>
+                    <td>35%</td>
+                    <td class="lag">-35%</td>
+                  </tr>
+                </tbody>
+              </table>
+            </section>
+          </aside>
+        </section>
+
+        <footer class="footer">
+          <section class="advice-card">
+            <h2 class="section-title">核查建议</h2>
+            <ol class="advice-list">
+              <li data-index="1">优先核查偏差最大的 E1 区域，确认现场施工状态与系统录入是否一致。</li>
+              <li data-index="2">对计划已完成但实际为 0% 的板块，要求施工单位补充进度说明和完成凭证。</li>
+              <li data-index="3">将连续滞后的重点风险板块纳入周例会专项跟踪，形成闭环整改记录。</li>
+            </ol>
+          </section>
+          <section class="stamp">
+            <strong>系统自动生成</strong>
+            BIM施工进度偏差分析驾驶舱<br />
+            生成时间：2026-05-29 09:30
+          </section>
+        </footer>
+      </div>
+    </main>
+  </body>
+</html>
